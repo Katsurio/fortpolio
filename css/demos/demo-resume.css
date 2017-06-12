@@ -248,7 +248,7 @@ section.section {
 		right: 0;
 		width: 100%;
 		height: 102%;
-		background: #ffd93e;
+		background: #6dca70;
 		z-index: -1;
 	}
 	#header.header-floating .header-nav-main nav > ul > li > a > span {
@@ -519,7 +519,7 @@ section.custom-timeline .timeline-box.right:before {
 }
 section.custom-timeline .timeline-box.right:after {
 	top: 50%;
-	background: #ffd93e;
+	background: #6dca70;
 	border: none;
 	-webkit-transform: translateY(-50%) rotate(45deg);
 	-moz-transform: translateY(-50%) rotate(45deg);
@@ -640,8 +640,8 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 	transition: ease background 300ms;
 }
 .custom-nav-sort.nav > li.active > a, .custom-nav-sort.nav > li:hover > a {
-	background: #ffd93e;
-	border-color: #ffd93e;
+	background: #6dca70;
+	border-color: #6dca70;
 }
 .custom-nav-sort.nav > li.active > a:hover, .custom-nav-sort.nav > li.active > a:focus, .custom-nav-sort.nav > li:hover > a:hover, .custom-nav-sort.nav > li:hover > a:focus {
 	color: #2e353e;
@@ -687,7 +687,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 	transform: initial;
 }
 .custom-thumb-info-1 .thumb-info-wrapper:after {
-	background: #ffd93e;
+	background: #6dca70;
 }
 .custom-thumb-info-1 .thumb-info-wrapper .thumb-info-plus {
 	opacity: 0;
@@ -755,7 +755,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 	top: -8px;
 	left: 24px;
 	width: 100px;
-	border-top: 1px solid #deb717;
+	border-top: 1px solid #4a3b00;
 }
 .custom-testimonial-style-1 .testimonial-author span {
 	font-size: 1em;
@@ -877,7 +877,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 .custom-form-style .form-control-custom .form-control {
 	background: transparent;
 	border: none;
-	border-bottom: 1px solid #d8b113;
+	border-bottom: 1px solid rgba(119, 119, 119, 0.3);
 	color: #2e353e;
 	font-size: 12px;
 	padding: 6px 0;
@@ -915,7 +915,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 	width: 100%;
 }
 .custom-feature-box:hover .custom-feature-box-icon {
-	background: #ffd93e;
+	background: #6dca70;
 }
 .custom-feature-box:hover .custom-feature-box-icon i {
 	color: #2e353e !important;
