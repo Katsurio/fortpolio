@@ -15,7 +15,7 @@
         <?php include_once(dirname(__FILE__). '/includes/skills.php'); ?>
         <?php include_once(dirname(__FILE__). '/includes/portfolio.php'); ?>
         <?php include_once(dirname(__FILE__). '/includes/recommendations.php'); ?>
-        <?php include_once(dirname(__FILE__). '/includes/blog.php'); ?>
+<!--        --><?php //include_once(dirname(__FILE__). '/includes/blog.php'); ?>
         <?php include_once(dirname(__FILE__). '/includes/contact.php'); ?>
         <?php include_once(dirname(__FILE__). '/includes/footer.php'); ?>
     </div>
