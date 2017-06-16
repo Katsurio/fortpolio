@@ -26,11 +26,11 @@
                             </li>
                             <li class="col-md-3 col-sm-6 col-xs-12 isotope-item logos">
                                 <div class="image-gallery-item">
-                                    <a href="img/demos/resume/portfolio/portfolio-2.jpg" class="lightbox-portfolio">
+                                    <a href="img/demos/resume/about-me/bookcase.jpg" class="lightbox-portfolio">
                                         <span class="thumb-info custom-thumb-info-1">
                                             <span class="thumb-info-wrapper">
                                                 <span class="thumb-info-plus"></span>
-                                                <img src="img/demos/resume/portfolio/portfolio-2.jpg" class="img-responsive" alt="">
+                                                <img src="img/demos/resume/about-me/bookcase.jpg" class="img-responsive" alt="">
                                             </span>
                                         </span>
                                     </a>
@@ -62,11 +62,11 @@
                             </li>
                             <li class="col-md-3 col-sm-6 col-xs-12 isotope-item websites">
                                 <div class="image-gallery-item">
-                                    <a href="img/demos/resume/portfolio/portfolio-5.jpg" class="lightbox-portfolio">
+                                    <a href="img/demos/resume/about-me/bookcase.jpg" class="lightbox-portfolio">
                                         <span class="thumb-info custom-thumb-info-1">
                                             <span class="thumb-info-wrapper">
                                                 <span class="thumb-info-plus"></span>
-                                                <img src="img/demos/resume/portfolio/portfolio-5.jpg" class="img-responsive" alt="">
+                                                <img src="img/demos/resume/about-me/bookcase.jpg" class="img-responsive" alt="">
                                             </span>
                                         </span>
                                     </a>

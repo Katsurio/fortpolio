@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Journey</h2>
+                <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Journey to Greatness</h2>
                 <section class="timeline custom-timeline" id="timeline">
                     <div class="timeline-body">
                         <article class="timeline-box right custom-box-shadow-2">
