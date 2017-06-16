@@ -1,3 +1,40 @@
-.paralax-background {
-    height: 100%;
+/*.custom-contact-box h2 {*/
+    /*font-size: 1.8em;*/
+    /*font-weight: 900;*/
+/*}*/
+
+@media (min-width: 768px) {
+    html.no-overflowscrolling.sidebar-left-collapsed .nano:hover > .nano-pane > .nano-slider {
+        visibility: hidden;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover {
+        width: initial;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover .nav-main .nav-expanded > ul.nav-children {
+        display: none;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nav-main li.nav-parent > ul.nav-children {
+        height: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover ul.nav-main li i {
+        margin-right: 30px;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover .nav-main li.nav-parent a:after {
+        display: none;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover .nav-main li a span {
+        visibility: hidden;
+    }
+
+    html.sidebar-left-collapsed .sidebar-left .nano:hover .sidebar-widget, html.sidebar-left-collapsed .sidebar-left .nano:hover .separator {
+        display: none;
+    }
 }

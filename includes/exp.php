@@ -2,27 +2,27 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Experience</h2>
+                <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Journey to Greatness</h2>
                 <section class="timeline custom-timeline" id="timeline">
                     <div class="timeline-body">
                         <article class="timeline-box right custom-box-shadow-2">
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
                                 <span class="from text-color-dark text-uppercase">
                                     From
-                                    <span class="font-weight-semibold">Sep 2012</span>
+                                    <span class="font-weight-semibold">Baby</span>
                                 </span>
                                 <span class="to text-color-dark text-uppercase">
                                     To
-                                    <span class="font-weight-semibold">Present</span>
+                                    <span class="font-weight-semibold">College</span>
                                 </span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark"></p>
                                 <span class="company text-color-dark font-weight-semibold">
-                                    Okler Themes
-                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                    Stillwater, MN
+                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater Twin Cities</span>
                                 </span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">Padawan</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
                             </div>
                         </article>
@@ -30,20 +30,20 @@
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
                                 <span class="from text-color-dark text-uppercase">
                                     From
-                                    <span class="font-weight-semibold">Sep 2012</span>
+                                    <span class="font-weight-semibold">2011</span>
                                 </span>
                                 <span class="to text-color-dark text-uppercase">
                                     To
-                                    <span class="font-weight-semibold">Present</span>
+                                    <span class="font-weight-semibold">2016</span>
                                 </span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark">(5 Years)</p>
                                 <span class="company text-color-dark font-weight-semibold">
-                                    Okler Themes
-                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                    Taipei, TW
+                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Republic of China</span>
                                 </span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">Jedi Knight</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
                             </div>
                         </article>
@@ -51,20 +51,20 @@
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
                                 <span class="from text-color-dark text-uppercase">
                                     From
-                                    <span class="font-weight-semibold">Sep 2012</span>
+                                    <span class="font-weight-semibold">2016</span>
                                 </span>
                                 <span class="to text-color-dark text-uppercase">
                                     To
                                     <span class="font-weight-semibold">Present</span>
                                 </span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark">(1+ Year)</p>
                                 <span class="company text-color-dark font-weight-semibold">
-                                    Okler Themes
-                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                    Laguna, CA
+                                    <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater Orange County</span>
                                 </span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">Jedi Master</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
                             </div>
                         </article>
