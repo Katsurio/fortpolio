@@ -6,7 +6,7 @@
         <?php include_once(dirname(__FILE__) . '/exp.php'); ?>
         <?php include_once(dirname(__FILE__) . '/edu.php'); ?>
         <?php include_once(dirname(__FILE__) . '/skills.php'); ?>
-        <?php include_once(dirname(__FILE__) . '/portfolio.php'); ?>
+        <?php include_once(dirname(__FILE__) . '/portfolio_img_right.php'); ?>
         <?php include_once(dirname(__FILE__) . '/recommendations.php'); ?>
         <!--        --><?php //include_once(dirname(__FILE__) . '/blog.php'); ?>
         <?php include_once(dirname(__FILE__) . '/contact.php'); ?>

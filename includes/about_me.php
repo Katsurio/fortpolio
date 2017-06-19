@@ -7,20 +7,20 @@
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
                 <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Creative Full-stack Web Developer</p>
-                <span class="custom-about-me-infos">
-								<span class="custom-text-color-1 text-uppercase">Greater Orange County area</span>
-								<span class="custom-text-color-1 text-uppercase mb-md">Information Technology &amp; Services</span>
-								<span class="custom-text-color-1 text-uppercase">
-									<strong class="text-color-light">Previous: </strong>
-									Front-End Developer at Porto
-									<a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>
-								</span>
-								<span class="custom-text-color-1 text-uppercase">
-									<strong class="text-color-light">Education: </strong>
-									Porto School
-									<a data-hash href="#education" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>
-								</span>
-							</span>
+<!--                <span class="custom-about-me-infos">-->
+<!--                    <span class="custom-text-color-1 text-uppercase">Greater Orange County area</span>-->
+<!--                    <span class="custom-text-color-1 text-uppercase mb-md">Information Technology &amp; Services</span>-->
+<!--                    <span class="custom-text-color-1 text-uppercase">-->
+<!--                        <strong class="text-color-light">Previous: </strong>-->
+<!--                        Front-End Developer at Porto-->
+<!--                        <a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>-->
+<!--                    </span>-->
+<!--                    <span class="custom-text-color-1 text-uppercase">-->
+<!--                        <strong class="text-color-light">Education: </strong>-->
+<!--                        Porto School-->
+<!--                        <a data-hash href="#education" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>-->
+<!--                    </span>-->
+<!--                </span>-->
             </div>
             <div class="col-md-3 hidden-sm hidden-xs">
                 <img src="img/demos/resume/about-me/mouse.png" custom-anim class="img-responsive" alt />
@@ -51,26 +51,26 @@
         <div class="row">
             <div class="col-md-3 col-md-offset-4 col-sm-4 center custom-xs-border-bottom p-none">
                 <a data-hash href="#say-hello" class="text-decoration-none">
-								<span class="custom-nav-button text-color-dark">
-									<i class="icon-earphones-alt icons text-color-primary"></i>
-									Contact Information
-								</span>
+                    <span class="custom-nav-button text-color-dark">
+                        <i class="icon-earphones-alt icons text-color-primary"></i>
+                        Contact Information
+                    </span>
                 </a>
             </div>
             <div class="col-md-2 col-sm-4 center custom-xs-border-bottom p-none">
                 <a data-hash href="#say-hello" class="text-decoration-none">
-								<span class="custom-nav-button custom-divisors text-color-dark">
-									<i class="icon-envelope-open icons text-color-primary"></i>
-									Send Message
-								</span>
+                    <span class="custom-nav-button custom-divisors text-color-dark">
+                        <i class="icon-envelope-open icons text-color-primary"></i>
+                        Send Message
+                    </span>
                 </a>
             </div>
             <div class="col-md-3 col-sm-4 center p-none">
                 <a href="#" class="text-decoration-none">
-								<span class="custom-nav-button text-color-dark">
-									<i class="icon-cloud-download icons text-color-primary"></i>
-									Download Resume
-								</span>
+                    <span class="custom-nav-button text-color-dark">
+                        <i class="icon-cloud-download icons text-color-primary"></i>
+                        Download Resume
+                    </span>
                 </a>
             </div>
         </div>
