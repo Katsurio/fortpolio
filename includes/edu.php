@@ -40,24 +40,6 @@
                             </div>
                         </div>
                     </div>
-<!--                    <div>-->
-<!--                        <div class="col-md-6 col-sm-6">-->
-<!--                            <div class="custom-box-details-2 background-color-light custom-box-shadow-3">-->
-<!--                                <i class="icon-graduation icons text-color-primary"></i>-->
-<!--                                <h4 class="font-weight-semibold text-color-dark m-none">Porto University</h4>-->
-<!--                                <p class="custom-text-color-2 mb-xs">Master of Information Technology</p>-->
-<!--                                <strong class="text-color-primary">2001-2015</strong>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="col-md-6 col-sm-6">-->
-<!--                            <div class="custom-box-details-2 background-color-light custom-box-shadow-3">-->
-<!--                                <i class="icon-graduation icons text-color-primary"></i>-->
-<!--                                <h4 class="font-weight-semibold text-color-dark m-none">Stillwater Area High School</h4>-->
-<!--                                <p class="custom-text-color-2 mb-xs">H.S. Student</p>-->
-<!--                                <strong class="text-color-primary">2004</strong>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
                 </div>
             </div>
         </div>
