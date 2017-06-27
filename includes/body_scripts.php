@@ -33,7 +33,7 @@
 <!-- Theme Initialization Files -->
 <script src="js/theme.init.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHGzCCtg-c4Of1FHB2XFAADwukaotW6MI"></script>
 <script>
 
     /*
@@ -47,10 +47,10 @@
 
     // Map Markers
     var mapMarkers = [{
-        address: "New York, NY 10017",
-        html: "<strong>Porto One Page Agency</strong><br>New York, NY 10017",
+        address: "23702 Turtle Cove, 92677",
+        html: "<strong>Here</strong><br>Laguna Niguel, CA 92677",
         icon: {
-            image: "img/pin.png",
+            image: "img/demos/resume/contact/pin.png",
             iconsize: [26, 46],
             iconanchor: [12, 46]
         },
@@ -58,8 +58,8 @@
     }];
 
     // Map Initial Location
-    var initLatitude = 40.75198;
-    var initLongitude = -73.96978;
+    var initLatitude = 33.539522;
+    var initLongitude = -117.716089;
 
     // Map Extended Settings
     var mapSettings = {
@@ -75,7 +75,7 @@
         markers: mapMarkers,
         latitude: initLatitude,
         longitude: initLongitude,
-        zoom: 16
+        zoom: 11
     };
 
     var map = $('#googlemaps').gMap(mapSettings),

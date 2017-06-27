@@ -64,14 +64,14 @@
                     <ul class="custom-list-style-1 p-none">
                         <li>
                             <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="img/blank.gif" class="flag flag-us mr-xs" alt="English">English:</span>
+                            <span class="custom-text-color-2">Native</span>
+                        </li>
+                        <li>
+                            <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="img/blank.gif" class="flag flag-tw mr-xs" alt="Chinese">Chinese:</span>
                             <span class="custom-text-color-2">Advanced</span>
                         </li>
                         <li>
-                            <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="img/blank.gif" class="flag flag-es mr-xs" alt="Spanish">Spanish:</span>
-                            <span class="custom-text-color-2">Advanced</span>
-                        </li>
-                        <li>
-                            <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="img/blank.gif" class="flag flag-fr mr-xs" alt="Française">French:</span>
+                            <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="img/blank.gif" class="flag flag-jp mr-xs" alt="Japanese">Japanese:</span>
                             <span class="custom-text-color-2">Basic</span>
                         </li>
                     </ul>
