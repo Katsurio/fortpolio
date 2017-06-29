@@ -1,11 +1,11 @@
 <!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 <div id="googlemaps" class="google-map m-none custom-contact-pos"></div>
 
-<section id="contact" class="section section-no-border m-none p-none">
+<section id="say-hello" class="section section-no-border m-none p-none">
     <div class="container">
         <div class="row">
             <div class="col-md-5 col-sm-6 custom-contact-box custom-contact-pos background-color-quaternary">
-                <h2 class="text-color-light text-uppercase font-weight-extra-bold">Say Hello</h2>
+                <h2 class="text-color-light text-uppercase font-weight-extra-bold">Get in touch</h2>
                 <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-lg">
                     <div class="feature-box-icon">
                         <i class="icon-envelope icons text-color-primary"></i>

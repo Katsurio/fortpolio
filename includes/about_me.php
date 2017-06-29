@@ -6,19 +6,19 @@
             </div>
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
-                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Creative Full-stack Web Developer</p>
+                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Full-stack Web Developer</p>
                 <span class="custom-about-me-infos">
-                    <span class="custom-text-color-1 text-uppercase">Greater Orange County area</span>
-                    <span class="custom-text-color-1 text-uppercase mb-md">Information Technology &amp; Services</span>
-                    <span class="custom-text-color-1 text-uppercase">
-                        <strong class="text-color-light">Location: </strong>
+<!--                    <span class="custom-text-color-1 text-uppercase">Greater Orange County area</span>-->
+<!--                    <span class="custom-text-color-1 text-uppercase mb-md">Information Technology &amp; Services</span>-->
+                    <span class="custom-text-color-1 text-capitalize">
+                        <strong class="text-color-light text-uppercase">Previous: </strong>
                         Lead Instructor at Modawei
                         <a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>
                     </span>
-                    <span class="custom-text-color-1 text-uppercase">
-                        <strong class="text-color-light">Education: </strong>
+                    <span class="custom-text-color-1 text-capitalize">
+                        <strong class="text-color-light text-uppercase">Education: </strong>
                         U of Minnesota
-                        <a data-hash href="#education" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>
+                        <a data-hash href="#education" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs align-right ml-sm">View More</a>
                     </span>
                 </span>
             </div>
@@ -66,10 +66,10 @@
                 </a>
             </div>
             <div class="col-md-3 col-sm-4 center p-none">
-                <a href="#" class="text-decoration-none">
+                <a href="mailto:fishe545@gmail.com" class="text-color-light text-decoration-none">
                     <span class="custom-nav-button text-color-dark">
-                        <i class="icon-cloud-download icons text-color-primary"></i>
-                        Download Resume
+                        <i class="icon-user-follow icons text-color-primary"></i>
+                        Hire Me
                     </span>
                 </a>
             </div>
@@ -81,24 +81,41 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-
                 <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">
-                    <h4>My Work</h4>
                     <div class="col-md-6 col-sm-6 p-none">
-                        <div class="col-md-12">
-                            <p>Check out my code.</p>
-                            <a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading..." target="_blank"><i class="fa fa-github bigger"></i>&nbsp; GitHub</a>
-                        </div>
+                        <ul class="custom-list-style-1 p-none">
+                            <li>
+                                <span class="custom-text-color-2 text-capitalize">Check out my code</span>
+                                <span class="custom-text-color-2"><a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading..." target="_blank"><i class="fa fa-github bigger"></i>&nbsp; GitHub</a></span>
+                            </li>
+                        </ul>
                     </div>
                     <div class="col-md-6 col-sm-6 p-none">
-                        <div class="col-md-12">
-                            <p>Check out my resume.</p>
-                            <a href="#" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a>
-                        </div>
+                        <ul class="custom-list-style-1 p-none">
+                            <li>
+                                <span class="custom-text-color-2 text-capitalize">Check out my resume</span>
+                                <span class="custom-text-color-2 "><a href="#" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>
+                            </li>
+                        </ul>
                     </div>
                 </div>
+<!--                <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">-->
+<!--<!--                    <h4>My Work</h4>-->
+<!--                    <div class="col-md-6 col-sm-6 p-none">-->
+<!--                        <div class="col-md-12">-->
+<!--                            <p>Check out my code.</p>-->
+<!--                            <a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading..." target="_blank"><i class="fa fa-github bigger"></i>&nbsp; GitHub</a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="col-md-6 col-sm-6 p-none">-->
+<!--                        <div class="col-md-12">-->
+<!--                            <p>Check out my resume.</p>-->
+<!--                            <a href="#" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
-                <h2 class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
+                <h2 id="hello" class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
 
                 <p class="custom-text-color-2">I'm an ambitious front end web developer with a knack for seamless design and intuitive user experience. I am endlessly curious about technology and what is possible with the right tools, the right team, and the drive to achieve. I enjoy combining my design and development tools to bring useful and easy-to-use applications to life.
 

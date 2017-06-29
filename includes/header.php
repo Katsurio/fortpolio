@@ -14,30 +14,30 @@
                                         <li>
                                             <a data-hash href="#about-me" class="text-color-dark background-color-primary">
                                                 <i class="icon-home icons"></i>
-                                                <span class="custom-tooltip">About Me</span>
+                                                <span class="custom-tooltip">Home</span>
                                             </a>
                                         </li>
                                         <li>
-                                            <a data-hash href="#experience" class="text-color-dark background-color-primary">
+                                            <a data-hash href="#hello" class="text-color-dark background-color-primary">
                                                 <i class="icon-eye icons"></i>
-                                                <span class="custom-tooltip">Experience</span>
+                                                <span class="custom-tooltip">About</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a data-hash href="#education" class="text-color-dark background-color-primary">
-                                                <i class="icon-briefcase icons"></i>
+                                                <i class="icon-graduation icons"></i>
                                                 <span class="custom-tooltip">Education</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a data-hash href="#skills" class="text-color-dark background-color-primary">
-                                                <i class="icon-graduation icons"></i>
+                                                <i class="icon-diamond icons"></i>
                                                 <span class="custom-tooltip">Skills</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a data-hash href="#portfolio" class="text-color-dark background-color-primary">
-                                                <i class="icon-diamond icons"></i>
+                                                <i class="icon-briefcase icons"></i>
                                                 <span class="custom-tooltip">Portfolio</span>
                                             </a>
                                         </li>
@@ -56,7 +56,7 @@
                                         <li>
                                             <a data-hash href="#say-hello" class="text-color-dark background-color-primary">
                                                 <i class="icon-envelope-open icons"></i>
-                                                <span class="custom-tooltip">Say Hello</span>
+                                                <span class="custom-tooltip">Contact</span>
                                             </a>
                                         </li>
                                     </ul>
