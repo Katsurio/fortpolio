@@ -8,8 +8,8 @@
                 <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
                 <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Full-stack Web Developer</p>
                 <span class="custom-about-me-infos">
-<!--                    <span class="custom-text-color-1 text-uppercase">Greater Orange County area</span>-->
-<!--                    <span class="custom-text-color-1 text-uppercase mb-md">Information Technology &amp; Services</span>-->
+                    <span class="custom-text-color-1 text-capitalize">Greater Orange County area</span>
+                    <span class="custom-text-color-1 text-capitalize mb-md">Information Technology &amp; Services</span>
                     <span class="custom-text-color-1 text-capitalize">
                         <strong class="text-color-light text-uppercase">Previous: </strong>
                         Lead Instructor at Modawei
@@ -82,38 +82,23 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">
-                    <div class="col-md-6 col-sm-6 p-none">
+                    <div class="col-md-6 col-sm-6 p-none pull-right">
                         <ul class="custom-list-style-1 p-none">
                             <li>
-                                <span class="custom-text-color-2 text-capitalize">Check out my code</span>
-                                <span class="custom-text-color-2"><a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading..." target="_blank"><i class="fa fa-github bigger"></i>&nbsp; GitHub</a></span>
+                                <span class="custom-text-color-2 text-capitalize mr-lg ml-lg pull-left">Check out my code</span>
+                                <span class="custom-text-color-2"><a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-github-alt bigger"></i>&nbsp; GitHub</a></span>
                             </li>
                         </ul>
                     </div>
-                    <div class="col-md-6 col-sm-6 p-none">
+                    <div class="col-md-6 col-sm-6 p-none pull-right">
                         <ul class="custom-list-style-1 p-none">
                             <li>
-                                <span class="custom-text-color-2 text-capitalize">Check out my resume</span>
-                                <span class="custom-text-color-2 "><a href="#" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>
+                                <span class="custom-text-color-2 text-capitalize mr-lg ml-lg pull-left">Check out my resume</span>
+                                <span class="custom-text-color-2 "><a href="#" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>
                             </li>
                         </ul>
                     </div>
                 </div>
-<!--                <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">-->
-<!--<!--                    <h4>My Work</h4>-->
-<!--                    <div class="col-md-6 col-sm-6 p-none">-->
-<!--                        <div class="col-md-12">-->
-<!--                            <p>Check out my code.</p>-->
-<!--                            <a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading..." target="_blank"><i class="fa fa-github bigger"></i>&nbsp; GitHub</a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="col-md-6 col-sm-6 p-none">-->
-<!--                        <div class="col-md-12">-->
-<!--                            <p>Check out my resume.</p>-->
-<!--                            <a href="#" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
 
                 <h2 id="hello" class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
 
@@ -129,7 +114,7 @@
 <!--                    <p>Morbi tincidunt nunc non diam porta, at fermentum orci bibendum. Donec arcu nisi, ornare nec commodo vitae, sollicitudin sed magna. Cras sit amet justo et nulla pulvinar laoreet. Phasellus scelerisque, metus id posuere vulputate, diam tellus iaculis sapien, eget scelerisque ipsum libero convallis velit. Duis lorem ligula, faucibus quis tellus nec, fringilla ultricies leo. Etiam tempus congue magna. Suspendisse porta dictum tortor, eu volutpat ipsum eleifend nec. Aliquam dapibus lorem luctus, cursus libero imperdiet, mattis nunc. Sed in ipsum diam. Quisque efficitur metus purus, vitae fermentum lacus venenatis id.</p>-->
 <!--                </div>-->
 
-                <a id="aboutMeMoreBtn" data-hash href="#contact" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs">Give me a shout</a>
+                <a id="aboutMeMoreBtn" data-hash href="#contact" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs"><i class="fa fa-paper-plane"></i>&nbsp; Give me a shout.</a>
 
             </div>
         </div>
