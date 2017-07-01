@@ -69,7 +69,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input type="submit" value="SUBMIT" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading...">
+                            <input type="submit" value="Submit" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right text-sm" data-loading-text="Loading...">
                         </div>
                     </div>
                 </form>
