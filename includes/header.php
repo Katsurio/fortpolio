@@ -19,8 +19,14 @@
                                         </li>
                                         <li>
                                             <a data-hash href="#hello" class="text-color-dark background-color-primary">
-                                                <i class="icon-eye icons"></i>
+                                                <i class="icon-mustache icons"></i>
                                                 <span class="custom-tooltip">About</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-hash href="#experience" class="text-color-dark background-color-primary">
+                                                <i class="icon-globe-alt icons"></i>
+                                                <span class="custom-tooltip">Journey</span>
                                             </a>
                                         </li>
                                         <li>
@@ -31,7 +37,7 @@
                                         </li>
                                         <li>
                                             <a data-hash href="#skills" class="text-color-dark background-color-primary">
-                                                <i class="icon-diamond icons"></i>
+                                                <i class="icon-magic-wand icons"></i>
                                                 <span class="custom-tooltip">Skills</span>
                                             </a>
                                         </li>
