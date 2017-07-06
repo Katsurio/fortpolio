@@ -23,7 +23,7 @@
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-amazonwebservices-original colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-php-plain colored"></i>
                 </div>
                 <div class="mt-lg">
@@ -74,28 +74,22 @@
             <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Student <strong>Grade Table</strong></h2>
                 <p class="lead">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    A CMS(Content Management System) application designed to save and display student grades while adhering to minimalist design principles.
                 </p>
                 <p class="mt-lg">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    The earliest versions of the app used JavaScript, jQuery, and AJAX calls to an external database's server for its CRUD functionality, while current versions wrestle a LAMP(Linux, Apache, MySQL, PHP) stack to communicate with my AWS(Amazon Web Services) hosted server for its data. The app was independently developed and Twitter Bootstrap's utilization ensures a fully responsive layout and great UX(User Experience) at every breakpoint.
                 </p>
                 <div class="lead text-lg">
                     Technologies:
                     <i class="devicon-css3-plain colored"></i>
                     <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                    <i class="devicon-amazonwebservices-original colored"></i>
-                    <i class="devicon-jetbrains-plain colored"></i>
-                    <i class="devicon-phpstorm-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-wordpress-plain colored"></i>
-                    <i class="devicon-genesis-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="#" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -113,27 +107,21 @@
             <div class="col-md-6 pull-right">
                 <h2 class="mt-lg">Street <strong>Matcher II</strong></h2>
                 <p class="lead">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    A Street Fighter II-themed card matching game developed as a trial by fire to conquering the logic-side of one’s mind using only Javascript in one hand and jQuery in the other.
                 </p>
                 <p class="mt-lg">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    Street Matcher II(SMII) is a “simple” card matching game that was independently developed to help reinforce my logic and reasoning skills using JavaScript and jQuery. This was my test in preventing intertwined events from causing the onset of insanity.
                 </p>
                 <div class="lead text-lg">
                     Technologies:
                     <i class="devicon-css3-plain colored"></i>
                     <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                    <i class="devicon-amazonwebservices-original colored"></i>
-                    <i class="devicon-jetbrains-plain colored"></i>
-                    <i class="devicon-phpstorm-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-slack-plain colored"></i>
+                    <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="#" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -151,10 +139,10 @@
             <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Couch <strong>Po-tah-to</strong></h2>
                 <p class="lead">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    Enabler of sedentary lifestyles and the mood ring of one's life, Couch Potato is designed to pair food, drink, and film to a user's mood.
                 </p>
                 <p class="mt-lg">
-                    A CRUD website to save and display student grades. Early version used JavaScript and jQuery and later versions developed to use AngularJS, and AngularFire/Firebase. Fully responsive using Twitter Bootstrap. Filters added to improve user experience by enabling users to sort data by columns and searching specific data using keywords.
+                    Couch Potato is the brainchild of a four developer team destined to take the spud industry by storm. Contributed in a more of a senior developer role (i.e. supporting the team as the need arose), which was a first for me as a developer and was reminiscent of my old teaching days.
                 </p>
                 <div class="lead text-lg">
                     Technologies:
@@ -166,12 +154,7 @@
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                    <i class="devicon-amazonwebservices-original colored"></i>
-                    <i class="devicon-jetbrains-plain colored"></i>
-                    <i class="devicon-phpstorm-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-slack-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="#" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
