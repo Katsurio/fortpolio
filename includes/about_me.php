@@ -45,12 +45,11 @@
         </li>
     </ul>
 </section>
-
 <div class="custom-about-me-links">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-md-offset-4 col-sm-4 center custom-xs-border-bottom p-none">
-                <a data-hash href="#contact" class="text-decoration-none">
+                <a data-hash href="#say-hello" class="text-decoration-none">
                     <span class="custom-nav-button text-color-dark">
                         <i class="icon-earphones-alt icons text-color-primary"></i>
                         Contact Information
@@ -58,7 +57,7 @@
                 </a>
             </div>
             <div class="col-md-2 col-sm-4 center custom-xs-border-bottom p-none">
-                <a data-hash href="#contact" class="text-decoration-none">
+                <a data-hash href="#say-hello" class="text-decoration-none">
                     <span class="custom-nav-button custom-divisors text-color-dark">
                         <i class="icon-envelope-open icons text-color-primary"></i>
                         Send Message
@@ -99,23 +98,14 @@
                         </ul>
                     </div>
                 </div>
-
                 <h2 id="hello" class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
-
-                <p class="custom-text-color-2">I'm an ambitious front end web developer with a knack for seamless design and intuitive user experience. I am endlessly curious about technology and what is possible with the right tools, the right team, and the drive to achieve. I enjoy combining my design and development tools to bring useful and easy-to-use applications to life.
-
-                    When not coding I'm most likely hiking, playing soccer, or catching up on Game of Thrones. I speak a little German, I like to read about science and tech, and I make a mean breakfast burrito.</p>
-
-<!--                <div class="about-me-more" id="aboutMeMore">-->
-<!--                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu. Praesent aliquam velit vel libero dictum, non sollicitudin lectus mollis. Morbi sollicitudin auctor gravida. Vivamus vitae dui non lorem euismod pretium. Morbi congue sem sed ex iaculis, nec mattis felis pretium. Nullam molestie libero id odio blandit sodales. Suspendisse non mauris et felis molestie placerat aliquet a risus. Aliquam ac leo tempus, hendrerit eros mollis, gravida est.</p>-->
-<!---->
-<!--                    <p>Proin euismod ipsum a tellus condimentum dapibus. Integer porttitor felis elit, eget rutrum ligula commodo quis. Praesent ultricies neque eu mi congue blandit. Nulla feugiat feugiat aliquet. Morbi sed mattis erat. Nullam scelerisque molestie eros, id tristique felis iaculis non. Duis pellentesque neque eget iaculis varius. Donec at nisl semper, aliquam est id, tincidunt lacus. Donec at erat purus.</p>-->
-<!---->
-<!--                    <p>Morbi tincidunt nunc non diam porta, at fermentum orci bibendum. Donec arcu nisi, ornare nec commodo vitae, sollicitudin sed magna. Cras sit amet justo et nulla pulvinar laoreet. Phasellus scelerisque, metus id posuere vulputate, diam tellus iaculis sapien, eget scelerisque ipsum libero convallis velit. Duis lorem ligula, faucibus quis tellus nec, fringilla ultricies leo. Etiam tempus congue magna. Suspendisse porta dictum tortor, eu volutpat ipsum eleifend nec. Aliquam dapibus lorem luctus, cursus libero imperdiet, mattis nunc. Sed in ipsum diam. Quisque efficitur metus purus, vitae fermentum lacus venenatis id.</p>-->
-<!--                </div>-->
-
-                <a id="aboutMeMoreBtn" data-hash href="#contact" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs"><i class="fa fa-paper-plane"></i>&nbsp; Give me a shout.</a>
-
+                <p class="custom-text-color-2">
+                    I'm an ambitious full-stack web developer with a penchant for seamless design, intuitive user experience, and backend functionality to match. I'm endlessly curious about technology and what is possible after being provided with the right tools, right team, and right drive to achieve.
+                </p>
+                <p class="custom-text-color-2">
+                    After discovering my passion for web development, I couldn't get enough and pursued every possible opportunity to learn, develop, and push my newly found skills. I strongly feel that in order to stay relevant, one must stay excited and never lose their curiosity. When not coding, I'm most likely reading, exploring nature, gaming, or catching up on a superhero show. I'm originally from Minnesota, I lived in Taiwan for 5 years and speak Mandarin fluently, I like to read Chinese, Korean, Japanese, and American comics, and I am a big fan of Tupperware for some reason but don't judge me.
+                </p>
+                <a data-hash href="#say-hello" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs"><i class="fa fa-paper-plane"></i>&nbsp; Give me a shout.</a>
             </div>
         </div>
     </div>
