@@ -8,11 +8,11 @@
                 <h2 class="text-color-light text-uppercase font-weight-extra-bold">Get in touch</h2>
                 <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-lg">
                     <div class="feature-box-icon">
-                        <i class="icon-envelope icons text-color-primary"></i>
+                        <i class="icon-map icons text-color-primary"></i>
                     </div>
                     <div class="feature-box-info">
-                        <h6 class="mb-none text-sm">E-mail</h6>
-                        <a href="mailto:fishe545@gmail.com" class="text-color-light text-decoration-none">Fishe545@Gmail.com</a>
+                        <h6 class="mb-none text-sm">Location</h6>
+                        <p class="tall text-color-light">Orange County, California</p>
                     </div>
                 </div>
                 <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-lg">
@@ -24,15 +24,15 @@
                         <a href="tel:+9493549666" class="text-color-light text-decoration-none">(949) 354-9666</a>
                     </div>
                 </div>
-<!--                <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-xlg">-->
-<!--                    <div class="feature-box-icon">-->
-<!--                        <i class="icon-location-pin icons text-color-primary"></i>-->
-<!--                    </div>-->
-<!--                    <div class="feature-box-info">-->
-<!--                        <h6 class="mb-none text-sm">Address</h6>-->
-<!--                        <p class="tall text-color-light">23702 Turtle Cove, 92677</p>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-xlg">
+                    <div class="feature-box-icon">
+                        <i class="icon-envelope icons text-color-primary"></i>
+                    </div>
+                    <div class="feature-box-info">
+                        <h6 class="mb-none text-sm">E-mail</h6>
+                        <a href="mailto:fishe545@gmail.com" class="text-color-light text-decoration-none">Fishe545@Gmail.com</a>
+                    </div>
+                </div>
                 <h5 class="text-color-light">SEND A MESSAGE</h5>
                 <form id="contactForm" class="custom-contact-form-style-1" action="php/contact-form.php" method="POST">
                     <div class="alert alert-success hidden mt-lg" id="contactSuccess">

@@ -11,14 +11,14 @@
                             <div class="header-nav-main collapse">
                                 <nav class="wrapper-spy">
                                     <ul class="nav" id="mainNav">
+<!--                                        <li>-->
+<!--                                            <a data-hash href="#about-me" class="text-color-dark background-color-primary">-->
+<!--                                                <i class="icon-home icons"></i>-->
+<!--                                                <span class="custom-tooltip">Home</span>-->
+<!--                                            </a>-->
+<!--                                        </li>-->
                                         <li>
                                             <a data-hash href="#about-me" class="text-color-dark background-color-primary">
-                                                <i class="icon-home icons"></i>
-                                                <span class="custom-tooltip">Home</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a data-hash href="#hello" class="text-color-dark background-color-primary">
                                                 <i class="icon-mustache icons"></i>
                                                 <span class="custom-tooltip">About</span>
                                             </a>
