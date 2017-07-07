@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-10 col-sm-offset-0 col-xs-offset-1 custom-sm-margin-bottom-1">
-                <img src="img/demos/resume/about-me/katsurio.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
+                <img src="img/demos/resume/about-me/nines.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
             </div>
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
