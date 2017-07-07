@@ -100,10 +100,16 @@
                 </div>
                 <h2 id="hello" class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
                 <p class="custom-text-color-2">
-                    I'm an ambitious full-stack web developer with a penchant for seamless design, intuitive user experience, and backend functionality to match. I'm endlessly curious about technology and what is possible after being provided with the right tools, right team, and right drive to achieve.
+                    I'm an ambitious full-stack web developer with a penchant for seamless design, intuitive user experience, and backend data
+                    manipulation. I'm endlessly curious about technology and what is possible given the right
+                    tools, right team, and right drive to achieve. After the web development seed took root in my subconscious,
+                    I pursued every opportunity to learn, develop, and push my budding skills. I strongly believe that
+                    to stay relevant, one must stay excited and never lose one's curiosity or risk falling into obscurity.
                 </p>
                 <p class="custom-text-color-2">
-                    After discovering my passion for web development, I couldn't get enough and pursued every possible opportunity to learn, develop, and push my newly found skills. I strongly feel that in order to stay relevant, one must stay excited and never lose their curiosity. When not coding, I'm most likely reading, exploring nature, gaming, or catching up on a superhero show. I'm originally from Minnesota, I lived in Taiwan for 5 years and speak Mandarin fluently, I like to read Chinese, Korean, Japanese, and American comics, and I am a big fan of Tupperware for some reason but don't judge me.
+                    When not coding, I'm most likely reading, exploring nature, gaming, or catching up on a superhero show. I'm originally from Minnesota.
+                    I lived in Taiwan for 5 years and speak Mandarin fluently. I love reading, especially Japanese, Chinese, Korean, and American comics,
+                    and I an equal passion for Hong Kong film, namely Stephen Chow films. And last but not least, I am a big fan of Tupperware for some reason.
                 </p>
                 <a data-hash href="#say-hello" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs"><i class="fa fa-paper-plane"></i>&nbsp; Give me a shout.</a>
             </div>

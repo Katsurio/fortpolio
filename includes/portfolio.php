@@ -1,4 +1,4 @@
-<section id="portfolio" class="section section-no-border background-color-secondary m-none">
+<section id="portfolio" class="section section-no-border background-color-light m-none">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -14,11 +14,13 @@
                         <ul class="image-gallery sort-destination lightbox" data-sort-id="portfolio" data-plugin-options="{'delegate': 'a.lightbox-portfolio', 'type': 'image', 'gallery': {'enabled': true}}">
                             <li class="col-md-3 col-sm-6 col-xs-12 isotope-item websites">
                                 <div class="image-gallery-item">
-                                    <a href="img/demos/resume/portfolio/portfolio-1.jpg" class="lightbox-portfolio">
+<!--                                    <a href="img/demos/resume/portfolio/portfolio-1.jpg" class="lightbox-portfolio">-->
+                                    <i class="devicon-html5-plain lightbox-portfolio"></i>
                                         <span class="thumb-info custom-thumb-info-1">
                                             <span class="thumb-info-wrapper">
                                                 <span class="thumb-info-plus"></span>
-                                                <img src="img/demos/resume/portfolio/portfolio-1.jpg" class="img-responsive" alt="">
+<!--                                                <img src="img/demos/resume/portfolio/portfolio-1.jpg" class="img-responsive" alt="">-->
+                                                <i class="devicon-html5-plain"></i>
                                             </span>
                                         </span>
                                     </a>
@@ -26,14 +28,7 @@
                             </li>
                             <li class="col-md-3 col-sm-6 col-xs-12 isotope-item logos">
                                 <div class="image-gallery-item">
-                                    <a href="img/demos/resume/about-me/bookcase.jpg" class="lightbox-portfolio">
-                                        <span class="thumb-info custom-thumb-info-1">
-                                            <span class="thumb-info-wrapper">
-                                                <span class="thumb-info-plus"></span>
-                                                <img src="img/demos/resume/about-me/bookcase.jpg" class="img-responsive" alt="">
-                                            </span>
-                                        </span>
-                                    </a>
+                                    <img src="img/demos/resume/about-me/katsurio.jpg" class="img-responsive" alt="">
                                 </div>
                             </li>
                             <li class="col-md-3 col-sm-6 col-xs-12 isotope-item brands">
