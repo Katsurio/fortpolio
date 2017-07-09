@@ -80,6 +80,43 @@
 	   lastScrollTop = st;
 	});
 
+    /*
+    * Map and Contact Position
+    */
+    var customContactPos = {
+        $elements: $('.custom-contact-pos'),
+        build: function() {
+            var self = this;
+
+            self.init();
+        },
+        init: function() {
+            var self = this,
+                elementHeight = [];
+
+            // Get Map and Contact Box Height
+            self.$elements.each(function(){
+                elementHeight.push($(this).outerHeight());
+            });
+
+            // Set Map and Contact box with same height
+            self.$elements.each(function(){
+                $(this).css({
+                    height: Math.max.apply(null, elementHeight)
+                })
+            });
+
+            // Set contact-box position over google maps
+            $('.custom-contact-box').css({
+                'margin-top': -Math.max.apply(null, elementHeight)
+            });
+        }
+    }
+
+    if( $('.custom-contact-pos').get(0) ) {
+        customContactPos.build();
+    }
+
 	/*
 	* Menu Movement
 	*/

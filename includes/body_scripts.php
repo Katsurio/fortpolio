@@ -47,8 +47,8 @@
 
     // Map Markers
     var mapMarkers = [{
-        address: "23702 Turtle Cove, 92677",
-        html: "<strong>Here</strong><br>Laguna Niguel, CA 92677",
+        address: "92677",
+//        html: "<strong>Orange County,</strong> CA",
         icon: {
             image: "img/demos/resume/contact/pin.png",
             iconsize: [26, 46],

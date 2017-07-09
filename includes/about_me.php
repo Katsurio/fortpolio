@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-10 col-sm-offset-0 col-xs-offset-1 custom-sm-margin-bottom-1">
-                <img src="img/demos/resume/about-me/nines.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
+                <img src="img/demos/resume/about-me/sys-bff.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
             </div>
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
@@ -65,7 +65,7 @@
                 </a>
             </div>
             <div class="col-md-3 col-sm-4 center p-none">
-                <a href="mailto:fishe545@gmail.com" class="text-color-light text-decoration-none">
+                <a href="mailto:jfisher.jobs@gmail.com" class="text-color-light text-decoration-none">
                     <span class="custom-nav-button text-color-dark">
                         <i class="icon-user-follow icons text-color-primary"></i>
                         Hire Me

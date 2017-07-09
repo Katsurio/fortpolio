@@ -107,7 +107,7 @@
             <div class="col-md-6 pull-right">
                 <h2 class="mt-lg">Street <strong>Matcher II</strong></h2>
                 <p class="lead">
-                    A Street Fighter II-themed card matching game developed as a trial by fire to conquering the logic-side of one’s mind using only Javascript in one hand and jQuery in the other.
+                    A Street Fighter II-themed card matching game developed as a trial by fire for conquering the logic-side of one’s mind using only Javascript and jQuery.
                 </p>
                 <p class="mt-lg">
                     Street Matcher II(SMII) is a “simple” card matching game that was independently developed to help reinforce my logic and reasoning skills using JavaScript and jQuery. This was my test in preventing intertwined events from causing the onset of insanity.
@@ -139,10 +139,10 @@
             <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Couch <strong>Po-tah-to</strong></h2>
                 <p class="lead">
-                    Enabler of sedentary lifestyles and the mood ring of one's life, Couch Potato is designed to pair food, drink, and film to a user's mood.
+                    Enabler of sedentary lifestyles and the mood ring of one's life, Couch Potato is an application designed to pair a food, a drink, and a film with a user's selected mood.
                 </p>
                 <p class="mt-lg">
-                    Couch Potato is the brainchild of a four developer team destined to take the spud industry by storm. Contributed in a more of a senior developer role (i.e. supporting the team as the need arose), which was a first for me as a developer and was reminiscent of my old teaching days.
+                    Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.
                 </p>
                 <div class="lead text-lg">
                     Technologies:

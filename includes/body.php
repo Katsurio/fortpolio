@@ -1,5 +1,5 @@
 <div class="body">
-    <?php include_once(dirname(__FILE__). '/header.php'); ?>
+    <?php include_once(dirname(__FILE__) . '/header.php'); ?>
 
     <div role="main" class="main">
         <?php include_once(dirname(__FILE__) . '/about_me.php'); ?>
