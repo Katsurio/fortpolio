@@ -25,10 +25,14 @@
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 <!-- Devicon -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
 <!-- Web Fonts  -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+<!-- Preloader -->
+<link href="css/preloader.css" rel="stylesheet">
 
 <!-- Vendor CSS -->
 <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">

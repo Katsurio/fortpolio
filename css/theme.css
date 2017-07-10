@@ -2082,7 +2082,7 @@ html[dir="rtl"] #header .header-search .btn-default {
 /* Section Featured */
 section.section {
 	background: #f4f4f4;
-	border-top: 5px solid #f1f1f1;
+	border-top: 0 solid #f1f1f1;
 	margin: 30px 0;
 	padding: 50px 0;
 }
