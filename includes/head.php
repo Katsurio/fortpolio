@@ -31,6 +31,9 @@
 <!-- Web Fonts  -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
 
+<!-- Preloader -->
+<link href="css/preloader.css" rel="stylesheet">
+
 <!-- Vendor CSS -->
 <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">

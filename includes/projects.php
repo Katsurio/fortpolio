@@ -110,7 +110,7 @@
                     A Street Fighter II-themed card matching game developed as a trial by fire for conquering the logic-side of one’s mind using only Javascript and jQuery.
                 </p>
                 <p class="mt-lg">
-                    Street Matcher II(SMII) is a “simple” card matching game that was independently developed to help reinforce my logic and reasoning skills using JavaScript and jQuery. This was my test in preventing intertwined events from causing the onset of insanity.
+                    Street Matcher II(SMII) is a card matching game that was independently developed to reinforce logic and reasoning skills using JavaScript and jQuery. This was my test in preventing intertwined events from causing the onset of insanity.
                 </p>
                 <div class="lead text-lg">
                     Technologies:

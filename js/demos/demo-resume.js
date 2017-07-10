@@ -2,7 +2,14 @@
 
 	'use strict';
 
-	// About Me
+    /*
+    * Preloader
+    */
+    $(window).on('load', function () {
+        $("body").addClass("loaded");
+    });
+
+    // About Me
 	$('#aboutMeMoreBtn').on('click', function() {
 		$(this).hide();
 		$('#aboutMeMore').toggleClass('about-me-more-visible');
