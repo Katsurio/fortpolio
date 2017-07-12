@@ -22,8 +22,11 @@
                                 </span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Padawan</h4>
-                                <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+<!--                                <h4 class="text-color-dark font-weight-semibold">Padawan</h4>-->
+                                <h5 class="custom-text-color-1 font-weight-semibold">Favorites:</h5>
+                                <p class="m-none custom-text-color-1"><span class="custom-text-color-2">Food: </span>Everything tastes like shit</p>
+                                <p class="m-none custom-text-color-1"><span class="custom-text-color-2">Place: </span>Blah</p>
+                                <p class="m-none custom-text-color-1"><span class="custom-text-color-2">Activity: </span>Blah</p>
                             </div>
                         </article>
                         <article class="timeline-box right custom-box-shadow-2">
