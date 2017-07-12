@@ -42,10 +42,10 @@
             <div class="col-md-6 pull-right">
                 <h2 class="mt-lg">J.G. Hause<strong> Custom Homes</strong></h2>
                 <p class="lead">
-                    A fully responsive, modern web application commissioned to showcase J.G. Hause's portfolio of beautifully built custom homes. <!-- with the expectation of great design and -->
+                    A fully responsive, modern web application commissioned to showcase J.G. Hause's portfolio of beautifully built custom homes.
                 </p>
                 <p class="mt-lg">
-                    The client's website was developed on a team of 2 developers, and serves to increase clientele confidence in the lead up to finalizing multi-million dollar business transactions. This job was challenging, yet immensely beneficial because it was so many firsts for me (e.g. 1st freelance job, 1st time on a remote team, 1st time working with Wordpress and with the Genesis Framework).
+                    The client's website was developed on a team of 2 developers, and serves to increase clientele confidence in the lead up to finalizing multi-million dollar business transactions. This job was challenging, yet immensely beneficial because it was so many firsts for me: 1st freelance job; 1st time on a remote team; and, 1st time working with Wordpress and the Genesis Framework).
                 </p>
                 <div class="lead text-lg">
                     Technologies:

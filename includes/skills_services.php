@@ -3,7 +3,6 @@
         <div class="row">
             <div class="col-md-12 center">
                 <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold m-none mb-xl">Skills</h2>
-<!--                <div class="divider divider-primary divider-small divider-small-center mb-xl"></div>-->
             </div>
         </div>
         <div class="row mt-xl">

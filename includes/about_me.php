@@ -93,7 +93,7 @@
                         <ul class="custom-list-style-1 p-none">
                             <li>
                                 <span class="custom-text-color-2 text-capitalize mr-lg ml-lg pull-left">Check out my resume</span>
-                                <span class="custom-text-color-2 "><a href="#" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>
+                                <span class="custom-text-color-2 "><a href="./Resume-John_E_Fisher-2017_July.pdf" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>
                             </li>
                         </ul>
                     </div>
@@ -109,7 +109,7 @@
                 <p class="custom-text-color-2">
                     When not coding, I'm most likely reading, exploring nature, gaming, or catching up on a superhero show. I'm originally from Minnesota.
                     I lived in Taiwan for 5 years and speak Mandarin fluently. I love reading, especially Japanese, Chinese, Korean, and American comics,
-                    and I an equal passion for Hong Kong film, namely Stephen Chow films. And last but not least, I am a big fan of Tupperware for some reason.
+                    and I'm equally passionate about Hong Kong film, namely Stephen Chow films. And last but not least, I am a big fan of Tupperware for some reason.
                 </p>
                 <a data-hash href="#say-hello" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs"><i class="fa fa-paper-plane"></i>&nbsp; Give me a shout.</a>
             </div>
