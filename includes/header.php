@@ -24,23 +24,23 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a data-hash href="#skills" class="text-color-dark background-color-primary">
-                                                <i class="icon-magic-wand icons"></i>
-                                                <span class="custom-tooltip">Skills</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a data-hash href="#experience" class="text-color-dark background-color-primary">
-                                                <i class="icon-globe-alt icons"></i>
-                                                <span class="custom-tooltip">Journey</span>
-                                            </a>
-                                        </li>
-                                        <li>
                                             <a data-hash href="#education" class="text-color-dark background-color-primary">
                                                 <i class="icon-graduation icons"></i>
                                                 <span class="custom-tooltip">Education</span>
                                             </a>
                                         </li>
+                                        <li>
+                                            <a data-hash href="#skills" class="text-color-dark background-color-primary">
+                                                <i class="icon-magic-wand icons"></i>
+                                                <span class="custom-tooltip">Skills</span>
+                                            </a>
+                                        </li>
+<!--                                        <li>-->
+<!--                                            <a data-hash href="#experience" class="text-color-dark background-color-primary">-->
+<!--                                                <i class="icon-globe-alt icons"></i>-->
+<!--                                                <span class="custom-tooltip">Journey</span>-->
+<!--                                            </a>-->
+<!--                                        </li>-->
                                         <li>
                                             <a data-hash href="#portfolio" class="text-color-dark background-color-primary">
                                                 <i class="icon-briefcase icons"></i>
