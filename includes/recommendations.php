@@ -22,10 +22,10 @@
                         <div class="col-md-12">
                             <div class="testimonial custom-testimonial-style-1 testimonial-with-quotes mb-none">
                                 <blockquote class="pb-sm">
-                                    <p class="custom-text-color-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu. Praesent aliquam velit vel libero dictum, non sollicitudin lectus mollis. Morbi sollicitudin auctor gravida.</p>
+                                    <p class="custom-text-color-3">John is a dedicated, hard-working developer. I had the pleasure collaborating with him on Fridge2Plate.com. &quot;Give up&quot; is not a phrase found in John's dictionary. He was quite savvy in finding solutions to the problems we had incorporating the BrainTree payment system. I know I can trust John to accomplish the task given to him and he won't stop working even when everyone else has already gone home.</p>
                                 </blockquote>
                                 <div class="testimonial-author pull-left">
-                                    <p><strong class="text-uppercase">Bob Doe</strong><span class="custom-text-color-3">Director of Engineering</span></p>
+                                    <p><strong class="text-uppercase">Kevin Chau</strong><span class="custom-text-color-3">Front-end Software Engineer</span></p>
                                 </div>
                             </div>
                         </div>
