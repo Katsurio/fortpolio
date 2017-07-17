@@ -4,7 +4,7 @@ header('Expires: ' . gmdate('r', 0));
 
 header('Content-type: application/json');
 
-require_once(dirname(__FILE__) . '/php-mailer/PHPMailerAutoload.php');
+require_once(dirname(__FILE__) . '/PHPMailerAutoload.php');
 //require_once('php-mailer/PHPMailerAutoload.php');
 
 // Step 1 - Enter your email address below.

@@ -18,43 +18,43 @@
 	/*
 	* Timeline
 	*/
-	var timelineHeightAdjust = {
-		$timeline: $('#timeline'),
-		$timelineBar: $('#timeline .timeline-bar'),
-		$firstTimelineItem: $('#timeline .timeline-box').first(),
-		$lastTimelineItem: $('#timeline .timeline-box').last(),
-
-		build: function() {
-			var self = this;
-
-			self.adjustHeight();
-		},
-		adjustHeight: function() {
-			var self                = this,
-				calcFirstItemHeight = self.$firstTimelineItem.outerHeight(true) / 2,
-				calcLastItemHeight  = self.$lastTimelineItem.outerHeight(true) / 2;
-
-			// Set Timeline Bar Top and Bottom
-			self.$timelineBar.css({
-				top: calcFirstItemHeight,
-				bottom: calcLastItemHeight
-			});
-		}
-	}
-
-	if( $('#timeline').get(0) ) {
-		setTimeout(function(){
-			// Adjust Timeline Height On Resize
-			$(window).afterResize(function() {
-				timelineHeightAdjust.build();
-			});
-		}, 1000);
-
-		timelineHeightAdjust.build();
-	}
+	// var timelineHeightAdjust = {
+	// 	$timeline: $('#timeline'),
+	// 	$timelineBar: $('#timeline .timeline-bar'),
+	// 	$firstTimelineItem: $('#timeline .timeline-box').first(),
+	// 	$lastTimelineItem: $('#timeline .timeline-box').last(),
+    //
+	// 	build: function() {
+	// 		var self = this;
+    //
+	// 		self.adjustHeight();
+	// 	},
+	// 	adjustHeight: function() {
+	// 		var self                = this,
+	// 			calcFirstItemHeight = self.$firstTimelineItem.outerHeight(true) / 2,
+	// 			calcLastItemHeight  = self.$lastTimelineItem.outerHeight(true) / 2;
+    //
+	// 		// Set Timeline Bar Top and Bottom
+	// 		self.$timelineBar.css({
+	// 			top: calcFirstItemHeight,
+	// 			bottom: calcLastItemHeight
+	// 		});
+	// 	}
+	// }
+    //
+	// if( $('#timeline').get(0) ) {
+	// 	setTimeout(function(){
+	// 		// Adjust Timeline Height On Resize
+	// 		$(window).afterResize(function() {
+	// 			timelineHeightAdjust.build();
+	// 		});
+	// 	}, 1000);
+    //
+	// 	timelineHeightAdjust.build();
+	// }
 
 	// Contact Form Validate
-	$('#callSendMessage').validate({
+	$('#contactForm').validate({
 		onkeyup: false,
 		onclick: false,
 		onfocusout: false,
@@ -66,6 +66,16 @@
 			}
 		}
 	});
+    // Contact Form Validate
+    // $('#contactForm').each([ 52, 97 ], function( index, value ) {
+    //     alert( index + ": " + value );
+    // });
+
+    // Contact Form: Close Success/Error Message
+	$('#contactError, #contactSuccess').click(function() {
+		debugger;
+        $(this).addClass('hidden');
+    });
 
 	/*
 	* Header Image Anim
