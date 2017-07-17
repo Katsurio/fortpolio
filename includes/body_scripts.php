@@ -66,7 +66,7 @@
         controls: {
             panControl: true,
             zoomControl: true,
-            mapTypeControl: true,
+            mapTypeControl: false,
             scaleControl: true,
             streetViewControl: true,
             overviewMapControl: true
@@ -85,7 +85,7 @@
     var mapCenterAt = function(options, e) {
         e.preventDefault();
         $('#googlemaps').gMap("centerAt", options);
-    }
+    };
 
     var mapRef = $('#googlemaps').data('gMap.reference');
 
