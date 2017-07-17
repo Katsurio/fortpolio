@@ -72,9 +72,9 @@
     // });
 
     // Contact Form: Close Success/Error Message
-	$('#contactError, #contactSuccess').click(function() {
+	$('#mailErrorCloseModalButton, #mailSuccessCloseModalButton').click(function() {
 		debugger;
-        $(this).addClass('hidden');
+        $(this).parent().addClass('hidden');
     });
 
 	/*

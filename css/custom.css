@@ -2,7 +2,7 @@
     position: relative;
 }
 
-#contactSuccess, #contactError {
+#contactSuccess, #contactError, #mailErrorMessage {
     position: absolute;
     z-index: 99;
     top: 48%;

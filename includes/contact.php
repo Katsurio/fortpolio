@@ -36,12 +36,12 @@
                 <h5 class="text-color-light">SEND A MESSAGE</h5>
                 <form id="contactForm" class="custom-contact-form-style-1" action="./php/contact-form.php" method="POST">
                     <div class="alert alert-success hidden mt-lg" id="contactSuccess">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        <button id="mailSuccessCloseModalButton" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                         <strong>Success!</strong> Your message has been sent to us.
                     </div>
 
                     <div class="alert alert-danger hidden mt-lg" id="contactError">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        <button id="mailErrorCloseModalButton" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                         <strong>Error!</strong> There was an error sending your message.
                         <span class="font-size-xs mt-sm display-block" id="mailErrorMessage"></span>
                     </div>
