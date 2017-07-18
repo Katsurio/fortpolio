@@ -92,7 +92,7 @@
                     <i class="devicon-php-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/ever-hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                     <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
