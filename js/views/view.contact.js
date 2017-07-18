@@ -7,13 +7,17 @@
 	*/
 	$('#contactForm').validate({
 		submitHandler: function(form) {
-
 			var $form = $(form),
 				$messageSuccess = $('#contactSuccess'),
 				$messageError = $('#contactError'),
 				$submitButton = $(this.submitButton),
 				$errorMessage = $('#mailErrorMessage');
 
+            // var customValidateInput = {
+            //     valideEmail:
+            // };
+            //
+            // if()
 			$submitButton.button('loading');
 
 			// Ajax Submit
