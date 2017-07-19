@@ -22,9 +22,11 @@
                     <i class="devicon-google-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-linux-plain colored"></i>
+                    <i class="devicon-apache-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="https://www.fridge2plate.com" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -54,9 +56,12 @@
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-linux-plain colored"></i>
+                    <i class="devicon-nginx-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
                     <i class="devicon-php-plain colored"></i>
                     <i class="devicon-wordpress-plain colored"></i>
+
                 </div>
                 <div class="mt-lg">
                     <a href="http://www.jghausecustomhomes.com/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -150,9 +155,11 @@
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-linux-plain colored"></i>
+                    <i class="devicon-apache-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -187,8 +194,8 @@
                     <i class="devicon-google-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Under</a>
-                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; Construction</a>
+                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
             <div class="col-md-6 mt-lg">
