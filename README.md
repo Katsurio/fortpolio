@@ -5,7 +5,7 @@ Fort Polio aka Portfolio
 My web development portfolio highlighting applications I've developed and my technology services. 
 There is a contact form and links to my resume, GitHub, facebook, twitter, angellist, and linkedin.
 
-~[Live link](http://www.FisherCode.com)~
+[Live link](http://www.FisherCode.com)
 
 ### Key Technologies
 - **HTML5**
