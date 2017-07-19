@@ -21,8 +21,18 @@
 <title>John Fisher | Web Developer</title>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="img/katsurio_favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<!--<link rel="shortcut icon" href="img/katsurio_favicon.ico" type="image/x-icon">-->
+<!--<link rel="apple-touch-icon" href="img/katsurio-alternate.png">-->
+
+<!-- Custom Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
+<link rel="manifest" href="img/favicons/manifest.json">
+<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#6dca70">
+<link rel="shortcut icon" href="img/favicons/favicon.ico">
+<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#6dca70">
 
 <!-- Devicon -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css">
