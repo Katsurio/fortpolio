@@ -187,8 +187,8 @@
                     <i class="devicon-google-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Under</a>
-                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; Construction</a>
+                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
             <div class="col-md-6 mt-lg">
