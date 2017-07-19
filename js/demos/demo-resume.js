@@ -73,7 +73,6 @@
 
     // Contact Form: Close Success/Error Message
 	$('#mailErrorCloseModalButton, #mailSuccessCloseModalButton').click(function() {
-		debugger;
         $(this).parent().addClass('hidden');
     });
 

@@ -2239,8 +2239,8 @@ window.theme.fn = {
 						}
 					}
 				},
-				validateCaptchaURL: 'php/contact-form-verify-captcha.php',
-				refreshCaptchaURL: 'php/contact-form-refresh-captcha.php'
+				validateCaptchaURL: './php/contact-form-verify-captcha.php',
+				refreshCaptchaURL: './php/contact-form-refresh-captcha.php'
 			},
 
 			initialize: function(opts) {

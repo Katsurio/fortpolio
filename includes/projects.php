@@ -60,7 +60,6 @@
                 </div>
                 <div class="mt-lg">
                     <a href="http://www.jghausecustomhomes.com/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-<!--                    <a href="https://github.com/jumpcakes/jg-custom-homes/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
                 </div>
             </div>
             <div class="col-md-6 mt-lg">
@@ -74,10 +73,10 @@
             <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Ever <strong>Hungry</strong></h2>
                 <p class="lead">
-                    A CMS(Content Management System) application designed to save and display student grades while adhering to minimalist design principles.
+                    Ever Hungry is an API rich application that locates nearby restaurants using Google Geolocation and Google Places, retrieves images from the aforementioned restaurants using the Flickr API, and retrieves directions to the selected restaurant using Google Maps.
                 </p>
                 <p class="mt-lg">
-                    The earliest versions of the app used JavaScript, jQuery, and AJAX calls to an external database's server for its CRUD functionality, while current versions wrestle a LAMP(Linux, Apache, MySQL, PHP) stack to communicate with my AWS(Amazon Web Services) hosted server for its data. The app was independently developed and Twitter Bootstrap's utilization ensures a fully responsive layout and great UX(User Experience) at every breakpoint.
+                    Ever Hungry is the product of what a six-developer team completed over two days as a way to solve the problem of where to go for dinner. I designed the application's layout using CSS, served as the team's Scrum Master, and was responsible for the version control repository and checking the team's work before merging any pull requests on GitHub.
                 </p>
                 <div class="lead text-lg">
                     Technologies:
@@ -86,10 +85,9 @@
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
+                    <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-google-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -181,17 +179,16 @@
                     Technologies:
                     <i class="devicon-css3-plain colored"></i>
                     <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-google-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-                    <a href="https://github.com/Katsurio/C4.17-Team-5-Hackathon/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
+                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Under</a>
+                    <a class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; Construction</a>
                 </div>
             </div>
             <div class="col-md-6 mt-lg">
