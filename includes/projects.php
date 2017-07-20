@@ -33,7 +33,7 @@
                     <a href="https://github.com/Xevnik/fridge2plate/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-right">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-fridge2plate.png" data-appear-animation="fadeInRight" alt="">
             </div>
         </div>
@@ -67,7 +67,7 @@
                     <a href="http://www.jghausecustomhomes.com/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-left">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-JGHause.png" data-appear-animation="fadeInLeft" alt="">
             </div>
         </div>
@@ -99,7 +99,7 @@
                     <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-right">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-ever-hungry.png" data-appear-animation="fadeInRight" alt="">
             </div>
         </div>
@@ -131,7 +131,7 @@
                     <a href="https://github.com/Katsurio/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-left">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SMII.png" data-appear-animation="fadeInLeft" alt="">
             </div>
         </div>
@@ -166,7 +166,7 @@
                     <a href="https://github.com/Katsurio/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-right">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SGT.png" data-appear-animation="fadeInRight" alt="">
             </div>
         </div>
@@ -198,7 +198,7 @@
                     <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg">
+            <div class="col-md-6 mt-lg pull-left">
                 <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-couchPotahto.png" data-appear-animation="fadeInLeft" alt="">
             </div>
         </div>

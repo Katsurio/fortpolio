@@ -2,14 +2,14 @@ Fort Polio aka Portfolio
 ===============
 
 ### Summary
-My web development portfolio highlighting applications I've developed and my technology services. 
-There is a contact form and links to my resume, GitHub, facebook, twitter, angellist, and linkedin.
+>My software development portfolio that highlights applications I've developed and the technology I use and services offered. 
+There is a contact form and links to my resume, GitHub, AngelList, and linkedin.
 
-[Live link](http://www.FisherCode.com)
+**[Live Link](http://www.FisherCode.com)**
 
 ### Key Technologies
-- **HTML5**
 - **CSS3**
+- **HTML5**
 - **JavaScript**
 - **jQuery**
 - **Bootstrap**
@@ -26,6 +26,6 @@ There is a contact form and links to my resume, GitHub, facebook, twitter, angel
 - Scrollspy for navigation links following section scroll.
 - Magnific popup for portfolio items hover.
 - jQuery Appear for element appear transitions.
-- Custom font (Fontastic) for missing technology icons. Also used font awesome, devicon, and devicons.
+- Custom font for missing icons, and also used font awesome, devicon, and devicons.
 - Compatible with IE9 and up, Firefox, Safari, Opera, and Chrome.
 - Search Engine Optimized.
