@@ -177,7 +177,7 @@
             <div class="col-md-6 pull-right">
                 <h2 class="mt-lg">Couch <strong>Po-tah-to</strong></h2>
                 <p class="lead">
-                    Enabler of sedentary lifestyles and the mood ring of one's life, Couch Potato is an application designed to pair a food, a drink, and a film with a user's selected mood.
+                    Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.
                 </p>
                 <p class="mt-lg">
                     Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.
