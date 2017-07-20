@@ -7,7 +7,9 @@
     z-index: 99;
     top: 48%;
 }
-/*#contactForm input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {*/
+/*#contactForm input:-webkit-autofill,
+#contactForm textarea:-webkit-autofill,
+#contactForm select:-webkit-autofill {*/
     /*background-color: rgb(64,63,61) !important;*/
 /*}*/
 @media (min-width: 768px) {
@@ -46,8 +48,24 @@
     }
 }
 
-input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
-    background-color: rgb(250, 0, 0) !important;
-    background-image: none;
-    color: rgb(0, 0, 0);
+/*input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {*/
+    /*background-color: rgb(250, 0, 0) !important;*/
+    /*background-image: none;*/
+    /*color: rgb(0, 0, 0);*/
+/*}*/
+#contactForm input:-webkit-autofill,
+#contactForm input:-webkit-autofill:hover,
+#contactForm input:-webkit-autofill:focus,
+#contactForm input:-webkit-autofill:active,
+#contactForm textarea:-webkit-autofill,
+#contactForm textarea:-webkit-autofill:hover,
+#contactForm textarea:-webkit-autofill:focus,
+#contactForm textarea:-webkit-autofill:active,
+#contactForm select:-webkit-autofill,
+#contactForm select:-webkit-autofill:hover,
+#contactForm select:-webkit-autofill:focus,
+#contactForm select:-webkit-autofill:active {
+    -webkit-text-fill-color: #777777;
+    -webkit-box-shadow: 0 0 0 1000px rgb(64,63,61) inset;
+    border-top: 1px solid #5a5a5a;
 }
