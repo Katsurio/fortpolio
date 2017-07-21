@@ -5,8 +5,8 @@
                 <img src="img/demos/resume/about-me/sys-bff.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
             </div>
             <div class="col-md-5 col-sm-8">
-                <h1 class="text-color-primary custom-font-size-1">John Fisher</h1>
-                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Full-Stack Software Developer</p>
+                <h1 class="text-color-primary custom-font-size-1">John E. Fisher</h1>
+                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Software Developer</p>
                 <span class="custom-about-me-infos">
                     <span class="custom-text-color-1 text-capitalize">Greater Orange County area</span>
                     <span class="custom-text-color-1 text-capitalize mb-md">Information Technology &amp; Services</span>
@@ -160,7 +160,7 @@
                 </div>
                 <h2 id="hello" class="text-color-quaternary font-weight-extra-bold text-uppercase">Hello!</h2>
                 <p class="custom-text-color-2">
-                    I'm an ambitious full-stack software developer with a penchant for seamless design, intuitive user experience,
+                    I'm an ambitious software developer with a penchant for seamless design, intuitive user experience,
                     and backend data manipulation. I'm endlessly curious about technology and what is possible given the right tools,
                     right team, and right drive to achieve. After the software development seed took root in my subconscious,
                     I pursued every opportunity to learn, develop, and push my budding skills. My transition to a developer feels

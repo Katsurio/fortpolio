@@ -11,14 +11,14 @@
 <meta name="author"                content="John Fisher">
 
 <!--Social media sharing-->
-<meta property="og:url"            content="http://www.katsurio.com">
+<meta property="og:url"            content="http://www.fishercode.com">
 <meta property="og:type"           content="profile">
-<meta property="og:title"          content="John Fisher | Full-Stack Web Developer">
+<meta property="og:title"          content="John E. Fisher | Software Developer">
 <meta property="og:description"    content="Specializing in both front-end and back-end technologies.">
-<meta property="og:image"          content="http://www.katsurio.com/images/portfolio_snapshot.jpg">
+<meta property="og:image"          content="img/portfolio_snapshot.jpg">
 <meta name="twitter:card"          content="summary_large_image">
 
-<title>John Fisher | Web Developer</title>
+<title>John Fisher | Software Developer</title>
 
 <!-- Favicon -->
 <!--<link rel="shortcut icon" href="img/katsurio_favicon.ico" type="image/x-icon">-->
