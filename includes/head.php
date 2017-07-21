@@ -15,7 +15,7 @@
 <meta property="og:type"           content="profile">
 <meta property="og:title"          content="John E. Fisher | Software Developer">
 <meta property="og:description"    content="Specializing in both front-end and back-end technologies.">
-<meta property="og:image"          content="img/portfolio_snapshot.jpg">
+<meta property="og:image"          content="//fishercode.com/img/portfolio_snapshot.png">
 <meta name="twitter:card"          content="summary_large_image">
 
 <title>John Fisher | Software Developer</title>
