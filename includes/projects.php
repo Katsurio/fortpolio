@@ -175,7 +175,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 pull-right">
-                <h2 class="mt-lg">Couch <strong>Po-tah-to</strong></h2>
+                <h2 class="mt-lg">Couch <strong>Potato</strong></h2>
                 <p class="lead">
                     Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.
                 </p>
