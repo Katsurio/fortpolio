@@ -124,15 +124,15 @@
 <!--                    </div>-->
 <!--                </div>-->
                 <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">
-                    <h4>Details</h4>
+                    <h4>Personality</h4>
                     <div class="col-md-6 col-sm-6 p-none">
                         <ul class="custom-list-style-1 p-none">
                             <li>
-                                <span class="text-color-dark">Birthday:</span>
-                                <span class="custom-text-color-2">December 10</span>
+                                <span class="text-color-dark">Astrology:</span>
+                                <span class="custom-text-color-2">Sagittarius</span>
                             </li>
                             <li>
-                                <span class="text-color-dark">Personality:</span>
+                                <span class="text-color-dark">MBTI®:</span>
                                 <span class="custom-text-color-2">INFJ</span>
                             </li>
                             <li>
