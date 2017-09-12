@@ -6,14 +6,13 @@
             </div>
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John E. Fisher</h1>
-                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Software Developer</p>
+                <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Full Stack Developer</p>
                 <span class="custom-about-me-infos">
                     <span class="custom-text-color-1 text-capitalize">Greater Orange County area</span>
                     <span class="custom-text-color-1 text-capitalize mb-md">Information Technology &amp; Services</span>
                     <span class="custom-text-color-1 text-capitalize">
-                        <strong class="text-color-light text-uppercase">Previous: </strong>
-                        Lead Instructor at Modawei
-<!--                        <a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-xs ml-sm">View More</a>-->
+                        <strong class="text-color-light text-uppercase">Current: </strong>
+                        Web Developer at Freelance
                     </span>
                     <span class="custom-text-color-1 text-capitalize">
                         <strong class="text-color-light text-uppercase">Education: </strong>
@@ -65,38 +64,13 @@
                 </a>
             </div>
             <div class="col-md-3 col-sm-4 center p-none">
-                <a href="./Resume-John_E_Fisher-2017_July.pdf" class="text-decoration-none">
+                <a href="./JohnFisherResume.pdf" class="text-decoration-none">
                     <span class="custom-nav-button text-color-dark">
                         <i class="icon-cloud-download icons text-color-primary"></i>
                         Download Resume
                     </span>
                 </a>
             </div>
-<!--            <div class="col-md-3 col-sm-4 center p-none">-->
-<!--                <a href="mailto:jfisher.jobs@gmail.com" class="text-color-light text-decoration-none">-->
-<!--                    <span class="custom-nav-button text-color-dark">-->
-<!--                        <i class="icon-user-follow icons text-color-primary"></i>-->
-<!--                        Hire Me-->
-<!--                    </span>-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="col-md-2 col-sm-4 center custom-xs-border-bottom p-none">-->
-<!--                <a data-hash href="#say-hello" class="text-decoration-none">-->
-<!--                    <span class="custom-nav-button custom-divisors text-color-dark">-->
-<!--                        <i class="icon-envelope-open icons text-color-primary"></i>-->
-<!--                        Send Message-->
-<!--                    </span>-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="col-md-3 col-sm-4 center p-none">-->
-<!--                <a href="mailto:jfisher.jobs@gmail.com" class="text-color-light text-decoration-none">-->
-<!--                    <span class="custom-nav-button text-color-dark">-->
-<!--                        <i class="icon-user-follow icons text-color-primary"></i>-->
-<!--                        <i class="fa fa-download text-color-primary"></i>&nbsp;-->
-<!--                        Download Resume-->
-<!--                    </span>-->
-<!--                </a>-->
-<!--            </div>-->
         </div>
     </div>
 </div>
@@ -105,24 +79,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-<!--                <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">-->
-<!--                    <div class="col-md-6 col-sm-6 p-none pull-right">-->
-<!--                        <ul class="custom-list-style-1 p-none">-->
-<!--                            <li>-->
-<!--                                <span class="custom-text-color-2 text-capitalize mr-lg ml-lg pull-left">Check out my code</span>-->
-<!--                                <span class="custom-text-color-2"><a href="https://www.github.com/katsurio" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-github-alt bigger"></i>&nbsp; GitHub</a></span>-->
-<!--                            </li>-->
-<!--                        </ul>-->
-<!--                    </div>-->
-<!--                    <div class="col-md-6 col-sm-6 p-none pull-right">-->
-<!--                        <ul class="custom-list-style-1 p-none">-->
-<!--                            <li>-->
-<!--                                <span class="custom-text-color-2 text-capitalize mr-lg ml-lg pull-left">Check out my resume</span>-->
-<!--                                <span class="custom-text-color-2 "><a href="./Resume-John_E_Fisher-2017_July.pdf" class="btn btn-primary custom-btn-style-1 text-color-light custom-margin-2 pull-right text-sm text-capitalize" data-loading-text="Loading..." target="_blank"><i class="fa fa-download"></i>&nbsp; Resume</a></span>-->
-<!--                            </li>-->
-<!--                        </ul>-->
-<!--                    </div>-->
-<!--                </div>-->
                 <div class="custom-box-details background-color-light custom-box-shadow-1 col-md-6 ml-xlg mb-xlg pull-right clearfix">
                     <h4>Personality</h4>
                     <div class="col-md-6 col-sm-6 p-none">
