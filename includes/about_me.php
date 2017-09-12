@@ -11,8 +11,8 @@
                     <span class="custom-text-color-1 text-capitalize">Greater Orange County area</span>
                     <span class="custom-text-color-1 text-capitalize mb-md">Information Technology &amp; Services</span>
                     <span class="custom-text-color-1 text-capitalize">
-                        <strong class="text-color-light text-uppercase">Previous: </strong>
-                        Lead Instructor at Modawei
+                        <strong class="text-color-light text-uppercase">Current: </strong>
+                        Web Developer at Freelance
                     </span>
                     <span class="custom-text-color-1 text-capitalize">
                         <strong class="text-color-light text-uppercase">Education: </strong>
