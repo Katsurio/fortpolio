@@ -7,6 +7,7 @@
     <div role="main" class="main">
         <?php
             include_once(dirname(__FILE__) . '/about_me.php');
+            include_once(dirname(__FILE__) . '/experience.php');
             include_once(dirname(__FILE__) . '/edu.php');
             include_once(dirname(__FILE__) . '/skills_services.php');
             include_once(dirname(__FILE__) . '/projects.php');
