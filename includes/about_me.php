@@ -102,15 +102,15 @@
                         <ul class="custom-list-style-1 p-none">
                             <li>
                                 <span class="text-color-dark">Sport:</span>
-                                <span class="custom-text-color-2"><a class="custom-text-color-2" href="tel:123456789"></a>Badminton/Soccer</span>
+                                <span class="custom-text-color-2">Soccer</span>
                             </li>
                             <li>
                                 <span class="text-color-dark">Food:</span>
-                                <span class="custom-text-color-2"><a class="custom-text-color-2" href="mailto:info@domain.com">Thai Shrimp</a></span>
+                                <span class="custom-text-color-2">Thai</span>
                             </li>
                             <li>
                                 <span class="text-color-dark">Movie:</span>
-                                <span class="custom-text-color-2"><a class="custom-text-color-2" href="skype:yourskype?chat">Lost in Translation</a></span>
+                                <span class="custom-text-color-2">John Wick</span>
                             </li>
                         </ul>
                     </div>
