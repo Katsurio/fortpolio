@@ -47,10 +47,11 @@
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
                                 <h4 class="text-color-dark font-weight-semibold">PHP Developer</h4>
-                                <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
-                                    eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
-                                    tincidunt ligula, nec dignissim arcu.</p>
+                                <p class="custom-text-color-2">Full stack development utilizing PHP, Javascript, jQuery,
+                                    Bootstrap, CSS, and HTML to securely build portals leveraging Okta's Identity and
+                                    Access Management APIs. Portals were developed with secure login, password/profile
+                                    updates, MFA and MFA factor resets, landing pages for
+                                    company apps, and any other custom functionality requested.</p>
                             </div>
                         </article>
                         <article class="timeline-box right custom-box-shadow-2">
