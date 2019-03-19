@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-10 col-sm-offset-0 col-xs-offset-1 custom-sm-margin-bottom-1">
-                <img src="img/demos/resume/about-me/sys-bff.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
+                <img src="img/demos/resume/about-me/headshot.jpg" class="img-responsive custom-border custom-image-position-2 custom-box-shadow-4" alt />
             </div>
             <div class="col-md-5 col-sm-8">
                 <h1 class="text-color-primary custom-font-size-1">John (Jef) Fisher</h1>
@@ -102,7 +102,7 @@
                         <ul class="custom-list-style-1 p-none">
                             <li>
                                 <span class="text-color-dark">Sport:</span>
-                                <span class="custom-text-color-2"><a class="custom-text-color-2" href="tel:123456789"></a>Soccer</span>
+                                <span class="custom-text-color-2"><a class="custom-text-color-2" href="tel:123456789"></a>Badminton/Soccer</span>
                             </li>
                             <li>
                                 <span class="text-color-dark">Food:</span>
@@ -117,10 +117,10 @@
                 </div>
                 <h2 id="about" class="text-color-quaternary font-weight-extra-bold text-uppercase">About</h2>
                 <p class="custom-text-color-2">
-                    I'm a dedicated, solutions-driven developer who enjoys attacking business problems with efficient
-                    and practical solutions. I primarily write code to securely retrieve data, while
-                    maintaining intuitive and efficient user interfaces. I am experienced in modern PHP, Javascript,
-                    jQuery, Python, Flask, ASP.NET Core, Laravel, MVC, SQL, Firebase, and Package Managers.
+                    I'm a dedicated, solutions-driven developer endlessly curious about technology. I primarily write
+                    code to securely retrieve data, while maintaining intuitive and efficient user interfaces. I am
+                    experienced in PHP, Javascript, jQuery, Bootstrap, Python, Flask, ASP.NET Core, Laravel, MVC, SQL,
+                    Firebase, and Package Managers.
                 </p>
                 <p class="custom-text-color-2">
                     When not coding, I'm most likely traveling with my family, reading, exploring nature, gaming, or
