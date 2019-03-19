@@ -23,10 +23,13 @@
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
                                 <h4 class="text-color-dark font-weight-semibold">Security Solutions Analyst/Web Developer</h4>
-                                <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
-                                    eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
-                                    tincidunt ligula, nec dignissim arcu.</p>
+                                <p class="custom-text-color-2">Lead developer in charge of design, front-end, and
+                                    back-end development using PHP, LAMP, JS, jQuery, CSS, Bootstrap, Foundation, Java,
+                                    Apache Tomcat, Python, Flask, ASP.NET Core, C#, Vue.js, Firebase, and VM Ware.
+                                    Implemented a development schedule for application development. Created all design
+                                    documents (i.e. mockups and wireframes) for approval. Developed portals and landing
+                                    pages to spec from approved designs. Created the testing plan for development
+                                    projects.</p>
                             </div>
                         </article>
                         <article class="timeline-box right custom-box-shadow-2">
