@@ -35,7 +35,7 @@
                     <div class="feature-box-info">
                         <h4 class="mb-sm text-capitalize">Version Control</h4>
                         <p class="mb-lg">
-                            Active on GitHub, and I use Chrome Dev Tools and Git to develop and track applications.
+                            Active on GitHub, use a local vm, bash/cmd, and Git to develop and track applications on both Windows and Linux systems.
                         </p>
                     </div>
                 </div>
@@ -57,19 +57,36 @@
                     </div>
                 </div>
             </div>
+<!--            <div class="col-md-3 center">-->
+<!--                <div class="feature-box feature-box-style-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">-->
+<!--                    <span class="featured-boxes featured-boxes-style-6 p-none m-none">-->
+<!--                        <span class="featured-box featured-box-primary featured-box-effect-6 p-none m-none">-->
+<!--                            <span class="box-content p-none m-none">-->
+<!--                                <i class="icon-featured fa fa-database"></i>-->
+<!--                            </span>-->
+<!--                        </span>-->
+<!--                    </span>-->
+<!--                    <div class="feature-box-info">-->
+<!--                        <h4 class="mb-sm">Data Manipulation</h4>-->
+<!--                        <p class="mb-lg">-->
+<!--                            Capable of collecting, storing and manipulating data using SQL, namely MySQL.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
             <div class="col-md-3 center">
                 <div class="feature-box feature-box-style-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                     <span class="featured-boxes featured-boxes-style-6 p-none m-none">
                         <span class="featured-box featured-box-primary featured-box-effect-6 p-none m-none">
                             <span class="box-content p-none m-none">
-                                <i class="icon-featured fa fa-database"></i>
+                                <i class="icon-featured fa fa-barcode"></i>
                             </span>
                         </span>
                     </span>
                     <div class="feature-box-info">
-                        <h4 class="mb-sm">Data Manipulation</h4>
+                        <h4 class="mb-sm">Okta Certified</h4>
                         <p class="mb-lg">
-                            Capable of collecting, storing and manipulating data using SQL, namely MySQL.
+                            Holder of both an Okta Administrator certification and an Okta Professional certification.
                         </p>
                     </div>
                 </div>

@@ -9,20 +9,20 @@
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
 											<span class="from text-color-dark text-uppercase">
 												From
-												<span class="font-weight-semibold">Sep 2012</span>
+												<span class="font-weight-semibold">Feb 2018</span>
 											</span>
                                 <span class="to text-color-dark text-uppercase">
 												To
-												<span class="font-weight-semibold">Present</span>
+												<span class="font-weight-semibold">Mar 2019</span>
 											</span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark">(1 Year 1 Month)</p>
                                 <span class="company text-color-dark font-weight-semibold">
-												Okler Themes
-												<span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+												Tevora Business Solutions
+												<span class="company-location text-color-dark font-weight-normal text-uppercase">Irvine, CA</span>
 											</span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">Security Solutions Analyst/Web Developer</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
                                     eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
@@ -33,20 +33,20 @@
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
 											<span class="from text-color-dark text-uppercase">
 												From
-												<span class="font-weight-semibold">Sep 2012</span>
+												<span class="font-weight-semibold">Sep 2017</span>
 											</span>
                                 <span class="to text-color-dark text-uppercase">
 												To
-												<span class="font-weight-semibold">Present</span>
+												<span class="font-weight-semibold">Feb 2018</span>
 											</span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark">(6 Months)</p>
                                 <span class="company text-color-dark font-weight-semibold">
-												Okler Themes
-												<span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+												Tevora Business Solutions
+												<span class="company-location text-color-dark font-weight-normal text-uppercase">Lake Forest, CA</span>
 											</span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">PHP Developer</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
                                     eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
@@ -57,20 +57,20 @@
                             <div class="experience-info col-md-3 col-sm-5 match-height background-color-primary">
 											<span class="from text-color-dark text-uppercase">
 												From
-												<span class="font-weight-semibold">Sep 2012</span>
+												<span class="font-weight-semibold">Sep 2016</span>
 											</span>
                                 <span class="to text-color-dark text-uppercase">
 												To
-												<span class="font-weight-semibold">Present</span>
+												<span class="font-weight-semibold">Sep 2017</span>
 											</span>
-                                <p class="text-color-dark">(3 Years 9 Months)</p>
+                                <p class="text-color-dark">(1 Year)</p>
                                 <span class="company text-color-dark font-weight-semibold">
-												Okler Themes
-												<span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+												Freelance
+												<span class="company-location text-color-dark font-weight-normal text-uppercase">Laguna Niguel, CA</span>
 											</span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
+                                <h4 class="text-color-dark font-weight-semibold">Web Developer</h4>
                                 <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
                                     eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
