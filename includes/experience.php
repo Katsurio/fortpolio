@@ -74,11 +74,12 @@
 											</span>
                             </div>
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
-                                <h4 class="text-color-dark font-weight-semibold">Web Developer</h4>
-                                <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo
-                                    eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in
-                                    tincidunt ligula, nec dignissim arcu.</p>
+                                <h4 class="text-color-dark font-weight-semibold">Freelance Web Developer</h4>
+                                <p class="custom-text-color-2">Developed the "Our Communities" page for a custom homes
+                                    website. The page designs were developed from PSDs provided
+                                    by the client, and improvements were made to the app's overall responsiveness at all
+                                    breakpoints. Implemented a Braintree payment system for an application that
+                                    retrieved recipes according to a user's available ingredients on hand.</p>
                             </div>
                         </article>
                         <div class="timeline-bar"></div>

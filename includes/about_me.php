@@ -94,7 +94,7 @@
                             </li>
                             <li>
                                 <span class="text-color-dark">Languages:</span>
-                                <span class="custom-text-color-2">English, Chinese</span>
+                                <span class="custom-text-color-2">ENG, CHI</span>
                             </li>
                         </ul>
                     </div>
