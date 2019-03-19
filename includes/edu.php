@@ -33,7 +33,7 @@
                             <div class="custom-box-details-2 background-color-light custom-box-shadow-3">
                                 <i class="icon-graduation icons text-color-primary"></i>
                                 <h4 class="font-weight-semibold text-color-dark m-none">LearningFuze</h4>
-                                <p class="custom-text-color-2 mb-xs">Accelerated Software Development Program</p>
+                                <p class="custom-text-color-2 mb-xs">Accelerated Web Development Program</p>
                                 <strong class="text-color-primary">2016</strong>
                             </div>
                         </div>

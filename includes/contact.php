@@ -21,7 +21,7 @@
                     </div>
                     <div class="feature-box-info">
                         <h6 class="mb-none text-sm">Telephone</h6>
-                        <a href="tel:+9493549666" class="text-color-light text-decoration-none">(949) 354-9666</a>
+                        <a href="tel:+9493549666" class="text-color-light text-decoration-none">(949) 636-0830</a>
                     </div>
                 </div>
                 <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-xlg">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="feature-box-info">
                         <h6 class="mb-none text-sm">E-mail</h6>
-                        <a href="mailto:jfisher.jobs@gmail.com" class="text-color-light text-decoration-none">JFisher.Jobs@Gmail.com</a>
+                        <a href="mailto:jfisher.jobs@gmail.com" class="text-color-light text-decoration-none">JFisher.jobs@gmail.com</a>
                     </div>
                 </div>
                 <h5 class="text-color-light">SEND A MESSAGE</h5>

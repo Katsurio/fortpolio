@@ -1,2 +1,4 @@
 php/email.config.php
 apps/
+.idea/
+*.idea
