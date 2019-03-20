@@ -109,42 +109,42 @@
             </div>
         </div>
     </div>
+<!--    <hr class="tall">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6 pull-right">-->
+<!--                <h2 class="mt-lg">Ever <strong>Hungry</strong></h2>-->
+<!--                <p class="lead">-->
+<!--                    Ever Hungry is an API rich application that locates nearby restaurants using Google Geolocation and Google Places, retrieves images from the aforementioned restaurants using the Flickr API, and retrieves directions to the selected restaurant using Google Maps.-->
+<!--                </p>-->
+<!--                <p class="mt-lg">-->
+<!--                    Ever Hungry is the product of what a six-developer team completed over two days as a way to solve the problem of where to go for dinner. I designed the application's layout using CSS, served as the team's Scrum Master, and was responsible for the version control repository and checking the team's work before merging any pull requests on GitHub.-->
+<!--                </p>-->
+<!--                <div class="lead text-lg">-->
+<!--                    Technologies:-->
+<!--                    <i class="devicon-css3-plain colored"></i>-->
+<!--                    <i class="devicon-html5-plain colored"></i>-->
+<!--                    <i class="devicon-javascript-plain colored"></i>-->
+<!--                    <i class="devicon-jquery-plain colored"></i>-->
+<!--                    <i class="devicon-bootstrap-plain colored"></i>-->
+<!--                    <i class="devicon-github-plain colored"></i>-->
+<!--                    <i class="devicon-git-plain colored"></i>-->
+<!--                    <i class="devicon-google-plain colored"></i>-->
+<!--                </div>-->
+<!--                <div class="mt-lg">-->
+<!--                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-6 mt-lg pull-left">-->
+<!--                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-ever-hungry.png" data-appear-animation="fadeInLeft" alt="">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
     <hr class="tall">
     <div class="container">
         <div class="row">
             <div class="col-md-6 pull-right">
-                <h2 class="mt-lg">Ever <strong>Hungry</strong></h2>
-                <p class="lead">
-                    Ever Hungry is an API rich application that locates nearby restaurants using Google Geolocation and Google Places, retrieves images from the aforementioned restaurants using the Flickr API, and retrieves directions to the selected restaurant using Google Maps.
-                </p>
-                <p class="mt-lg">
-                    Ever Hungry is the product of what a six-developer team completed over two days as a way to solve the problem of where to go for dinner. I designed the application's layout using CSS, served as the team's Scrum Master, and was responsible for the version control repository and checking the team's work before merging any pull requests on GitHub.
-                </p>
-                <div class="lead text-lg">
-                    Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-jquery-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                </div>
-                <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-                    <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
-                </div>
-            </div>
-            <div class="col-md-6 mt-lg pull-left">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-ever-hungry.png" data-appear-animation="fadeInLeft" alt="">
-            </div>
-        </div>
-    </div>
-    <hr class="tall">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Street <strong>Matcher II</strong></h2>
                 <p class="lead">
                     A Street Fighter II-themed card matching game developed as a trial by fire for conquering the logic-side of one’s mind using only Javascript and jQuery.
@@ -168,15 +168,15 @@
                     <a href="https://github.com/Katsurio/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg pull-right">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SMII.png" data-appear-animation="fadeInRight" alt="">
+            <div class="col-md-6 mt-lg pull-left">
+                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SMII.png" data-appear-animation="fadeInLeft" alt="">
             </div>
         </div>
     </div>
     <hr class="tall">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 pull-right">
+            <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Student <strong>Grade Table</strong></h2>
                 <p class="lead">
                     A CMS(Content Management System) application designed to save and display student grades while adhering to minimalist design principles.
@@ -203,41 +203,41 @@
                     <a href="https://github.com/Katsurio/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg pull-left">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SGT.png" data-appear-animation="fadeInLeft" alt="">
-            </div>
-        </div>
-    </div>
-    <hr class="tall">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 pull-left">
-                <h2 class="mt-lg">Couch <strong>Potato</strong></h2>
-                <p class="lead">
-                    Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.
-                </p>
-                <p class="mt-lg">
-                    Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.
-                </p>
-                <div class="lead text-lg">
-                    Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-jquery-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                </div>
-                <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
-                </div>
-            </div>
             <div class="col-md-6 mt-lg pull-right">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-couchPotahto.png" data-appear-animation="fadeInRight" alt="">
+                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-SGT.png" data-appear-animation="fadeInRight" alt="">
             </div>
         </div>
     </div>
+<!--    <hr class="tall">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6 pull-left">-->
+<!--                <h2 class="mt-lg">Couch <strong>Potato</strong></h2>-->
+<!--                <p class="lead">-->
+<!--                    Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.-->
+<!--                </p>-->
+<!--                <p class="mt-lg">-->
+<!--                    Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.-->
+<!--                </p>-->
+<!--                <div class="lead text-lg">-->
+<!--                    Technologies:-->
+<!--                    <i class="devicon-css3-plain colored"></i>-->
+<!--                    <i class="devicon-html5-plain colored"></i>-->
+<!--                    <i class="devicon-javascript-plain colored"></i>-->
+<!--                    <i class="devicon-jquery-plain colored"></i>-->
+<!--                    <i class="devicon-bootstrap-plain colored"></i>-->
+<!--                    <i class="devicon-git-plain colored"></i>-->
+<!--                    <i class="devicon-github-plain colored"></i>-->
+<!--                    <i class="devicon-google-plain colored"></i>-->
+<!--                </div>-->
+<!--                <div class="mt-lg">-->
+<!--                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-6 mt-lg pull-right">-->
+<!--                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-couchPotahto.png" data-appear-animation="fadeInRight" alt="">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 </section>
