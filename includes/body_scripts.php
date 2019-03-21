@@ -33,9 +33,8 @@
 <!-- Theme Initialization Files -->
 <script src="js/theme.init.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc___Wis9md7n70V0PAzoc-fNOiGjJrQE"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=<?= $gMapKey = include_once('./php/g-map.config.php'); ?>"></script>
 <script>
-
     /*
     Map Settings
 
@@ -58,8 +57,8 @@
     }];
 
     // Map Initial Location
-    var initLatitude = 33.539522;
-    var initLongitude = -117.716089;
+    var initLatitude = 33.567684;
+    var initLongitude = -117.725609;
 
     // Map Extended Settings
     var mapSettings = {
