@@ -33,9 +33,8 @@
 <!-- Theme Initialization Files -->
 <script src="js/theme.init.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHGzCCtg-c4Of1FHB2XFAADwukaotW6MI"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=<?= $gMapKey = include_once('./php/g-map.config.php'); ?>"></script>
 <script>
-
     /*
     Map Settings
 
@@ -47,7 +46,7 @@
 
     // Map Markers
     var mapMarkers = [{
-        address: "92677",
+        address: "92656",
 //        html: "<strong>Orange County,</strong> CA",
         icon: {
             image: "img/demos/resume/contact/pin.png",
@@ -58,8 +57,8 @@
     }];
 
     // Map Initial Location
-    var initLatitude = 33.539522;
-    var initLongitude = -117.716089;
+    var initLatitude = 33.567684;
+    var initLongitude = -117.725609;
 
     // Map Extended Settings
     var mapSettings = {

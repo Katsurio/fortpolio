@@ -1,4 +1,5 @@
 php/email.config.php
+php/g-map.config.php
 apps/
 .idea/
 *.idea

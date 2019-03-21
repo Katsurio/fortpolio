@@ -5,6 +5,44 @@
         </div>
         <div class="row">
             <div class="col-md-6 pull-left">
+                <h2 class="mt-lg">Dotnet<strong> Okta Portal</strong></h2>
+                <p class="lead">
+                    Login portal leveraging Okta's IAM (Identity and Access Management) APIs to authenticate and authorize
+                    end users to retrieve and display their applications on a landing page.
+                </p>
+                <p class="mt-lg">
+                    This Dotnet Okta Portal is the culmination of what I learned and an example of the applications I
+                    was developing at my last place of employment. I learned ASP.NET and C# to build this application
+                    and incorporate Okta's C# SDK into the development portfolio. I also just really enjoyed the
+                    framework, and tend to learn the most when researching new technologies and how to apply them best.
+                    Plus, it's always super exciting to get things working in a new language.
+                </p>
+                <div class="lead text-lg">
+                    Technologies:
+                    <i class="devicon-dot-net-plain colored"></i>
+                    <i class="devicon-csharp-plain colored"></i>
+                    <i class="devicon-javascript-plain colored"></i>
+                    <i class="devicon-bootstrap-plain colored"></i>
+                    <i class="devicon-visualstudio-plain colored"></i>
+                    <i class="devicon-github-plain colored"></i>
+                    <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
+                </div>
+                <div class="mt-lg">
+                    <a href="https://www.fridge2plate.com" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="https://github.com/Xevnik/fridge2plate/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
+                </div>
+            </div>
+            <div class="col-md-6 mt-lg pull-right">
+                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-dotnetOktaPortal.png" data-appear-animation="fadeInRight" alt="">
+            </div>
+        </div>
+    </div>
+    <hr class="tall">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 pull-right">
                 <h2 class="mt-lg">Fridge<strong> 2 Plate</strong></h2>
                 <p class="lead">
                     A recipe-searching application featuring a BrainTree payment system, Google O-Auth Login, and pay-to-feature recipe functionality.
@@ -14,34 +52,33 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
+                    <i class="devicon-mysql-plain colored"></i>
+                    <i class="devicon-apache-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-google-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-linux-plain colored"></i>
-                    <i class="devicon-apache-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="https://www.fridge2plate.com" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                     <a href="https://github.com/Xevnik/fridge2plate/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg pull-right">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-fridge2plate.png" data-appear-animation="fadeInRight" alt="">
+            <div class="col-md-6 mt-lg pull-left">
+                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-fridge2plate.png" data-appear-animation="fadeInLeft" alt="">
             </div>
         </div>
     </div>
     <hr class="tall">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 pull-right">
+            <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">J.G. Hause<strong> Custom Homes</strong></h2>
                 <p class="lead">
                     A fully responsive, modern web application commissioned to showcase J.G. Hause's portfolio of beautifully built custom homes.
@@ -51,59 +88,57 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
+                    <i class="devicon-mysql-plain colored"></i>
+                    <i class="devicon-nginx-plain colored"></i>
+                    <i class="devicon-wordpress-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-linux-plain colored"></i>
-                    <i class="devicon-nginx-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
-                    <i class="devicon-wordpress-plain colored"></i>
-
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://www.jghausecustomhomes.com/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                 </div>
             </div>
-            <div class="col-md-6 mt-lg pull-left">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-JGHause.png" data-appear-animation="fadeInLeft" alt="">
-            </div>
-        </div>
-    </div>
-    <hr class="tall">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 pull-left">
-                <h2 class="mt-lg">Ever <strong>Hungry</strong></h2>
-                <p class="lead">
-                    Ever Hungry is an API rich application that locates nearby restaurants using Google Geolocation and Google Places, retrieves images from the aforementioned restaurants using the Flickr API, and retrieves directions to the selected restaurant using Google Maps.
-                </p>
-                <p class="mt-lg">
-                    Ever Hungry is the product of what a six-developer team completed over two days as a way to solve the problem of where to go for dinner. I designed the application's layout using CSS, served as the team's Scrum Master, and was responsible for the version control repository and checking the team's work before merging any pull requests on GitHub.
-                </p>
-                <div class="lead text-lg">
-                    Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-jquery-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                </div>
-                <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-                    <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
-                </div>
-            </div>
             <div class="col-md-6 mt-lg pull-right">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-ever-hungry.png" data-appear-animation="fadeInRight" alt="">
+                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-JGHause.png" data-appear-animation="fadeInRight" alt="">
             </div>
         </div>
     </div>
+<!--    <hr class="tall">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6 pull-right">-->
+<!--                <h2 class="mt-lg">Ever <strong>Hungry</strong></h2>-->
+<!--                <p class="lead">-->
+<!--                    Ever Hungry is an API rich application that locates nearby restaurants using Google Geolocation and Google Places, retrieves images from the aforementioned restaurants using the Flickr API, and retrieves directions to the selected restaurant using Google Maps.-->
+<!--                </p>-->
+<!--                <p class="mt-lg">-->
+<!--                    Ever Hungry is the product of what a six-developer team completed over two days as a way to solve the problem of where to go for dinner. I designed the application's layout using CSS, served as the team's Scrum Master, and was responsible for the version control repository and checking the team's work before merging any pull requests on GitHub.-->
+<!--                </p>-->
+<!--                <div class="lead text-lg">-->
+<!--                    Technologies:-->
+<!--                    <i class="devicon-css3-plain colored"></i>-->
+<!--                    <i class="devicon-html5-plain colored"></i>-->
+<!--                    <i class="devicon-javascript-plain colored"></i>-->
+<!--                    <i class="devicon-jquery-plain colored"></i>-->
+<!--                    <i class="devicon-bootstrap-plain colored"></i>-->
+<!--                    <i class="devicon-github-plain colored"></i>-->
+<!--                    <i class="devicon-git-plain colored"></i>-->
+<!--                    <i class="devicon-google-plain colored"></i>-->
+<!--                </div>-->
+<!--                <div class="mt-lg">-->
+<!--                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-6 mt-lg pull-left">-->
+<!--                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-ever-hungry.png" data-appear-animation="fadeInLeft" alt="">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
     <hr class="tall">
     <div class="container">
         <div class="row">
@@ -117,14 +152,14 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -149,17 +184,17 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-linux-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-apache-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
+                    <i class="devicon-github-plain colored"></i>
+                    <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -171,36 +206,36 @@
             </div>
         </div>
     </div>
-    <hr class="tall">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 pull-right">
-                <h2 class="mt-lg">Couch <strong>Potato</strong></h2>
-                <p class="lead">
-                    Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.
-                </p>
-                <p class="mt-lg">
-                    Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.
-                </p>
-                <div class="lead text-lg">
-                    Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-jquery-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-github-plain colored"></i>
-                    <i class="devicon-google-plain colored"></i>
-                </div>
-                <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
-                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
-                </div>
-            </div>
-            <div class="col-md-6 mt-lg pull-left">
-                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-couchPotahto.png" data-appear-animation="fadeInLeft" alt="">
-            </div>
-        </div>
-    </div>
+<!--    <hr class="tall">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6 pull-left">-->
+<!--                <h2 class="mt-lg">Couch <strong>Potato</strong></h2>-->
+<!--                <p class="lead">-->
+<!--                    Enabler of sedentary lifestyles and mood ring of one's life, Couch Potato is an application designed to pair food, drink, and film with the user's selected mood.-->
+<!--                </p>-->
+<!--                <p class="mt-lg">-->
+<!--                    Couch Potato is the brainchild of the four-developer team destined to take the spud industry by storm. I was lucky to have contributed in a senior/support role (i.e. supporting the team as needed and fostering ideas), which was a first for me as a developer and was reminiscent of my teaching days.-->
+<!--                </p>-->
+<!--                <div class="lead text-lg">-->
+<!--                    Technologies:-->
+<!--                    <i class="devicon-css3-plain colored"></i>-->
+<!--                    <i class="devicon-html5-plain colored"></i>-->
+<!--                    <i class="devicon-javascript-plain colored"></i>-->
+<!--                    <i class="devicon-jquery-plain colored"></i>-->
+<!--                    <i class="devicon-bootstrap-plain colored"></i>-->
+<!--                    <i class="devicon-git-plain colored"></i>-->
+<!--                    <i class="devicon-github-plain colored"></i>-->
+<!--                    <i class="devicon-google-plain colored"></i>-->
+<!--                </div>-->
+<!--                <div class="mt-lg">-->
+<!--                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-6 mt-lg pull-right">-->
+<!--                <img class="img-responsive appear-animation" src="img/demos/resume/portfolio/preview-couchPotahto.png" data-appear-animation="fadeInRight" alt="">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 </section>
