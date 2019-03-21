@@ -130,7 +130,7 @@
 <!--                    <i class="devicon-google-plain colored"></i>-->
 <!--                </div>-->
 <!--                <div class="mt-lg">-->
-<!--                    <a href="http://fishercode.com/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="http://codephish.net/apps/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
 <!--                    <a href="https://github.com/Katsurio/ever_hungry/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
 <!--                </div>-->
 <!--            </div>-->
@@ -162,7 +162,7 @@
                     <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="http://codephish.net/apps/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                     <a href="https://github.com/Katsurio/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                     <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
-                    <a href="http://fishercode.com/apps/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
+                    <a href="http://codephish.net/apps/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
                     <a href="https://github.com/Katsurio/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>
                 </div>
             </div>
@@ -229,7 +229,7 @@
 <!--                    <i class="devicon-google-plain colored"></i>-->
 <!--                </div>-->
 <!--                <div class="mt-lg">-->
-<!--                    <a href="http://fishercode.com/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
+<!--                    <a href="http://codephish.net/apps/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>-->
 <!--                    <a href="https://github.com/Katsurio/couch_potato/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 text-sm" target="_blank"><i class="fa fa-github-alt"></i>&nbsp; View Code</a>-->
 <!--                </div>-->
 <!--            </div>-->

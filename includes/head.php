@@ -11,11 +11,11 @@
 <meta name="author"                content="John Fisher">
 
 <!--Social media sharing-->
-<meta property="og:url"            content="http://www.fishercode.com">
+<meta property="og:url"            content="http://www.codephish.net">
 <meta property="og:type"           content="profile">
 <meta property="og:title"          content="John E. Fisher | Software Developer">
 <meta property="og:description"    content="Specializing in both front-end and back-end technologies.">
-<meta property="og:image"          content="//fishercode.com/img/portfolio_snapshot.png">
+<meta property="og:image"          content="//codephish.net/img/portfolio_snapshot.png">
 <meta name="twitter:card"          content="summary_large_image">
 
 <title>John Fisher | Software Developer</title>
