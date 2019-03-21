@@ -33,7 +33,7 @@
 <!-- Theme Initialization Files -->
 <script src="js/theme.init.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHGzCCtg-c4Of1FHB2XFAADwukaotW6MI"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc___Wis9md7n70V0PAzoc-fNOiGjJrQE"></script>
 <script>
 
     /*
@@ -47,7 +47,7 @@
 
     // Map Markers
     var mapMarkers = [{
-        address: "92677",
+        address: "92656",
 //        html: "<strong>Orange County,</strong> CA",
         icon: {
             image: "img/demos/resume/contact/pin.png",
