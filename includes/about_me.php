@@ -85,31 +85,31 @@
                     <div class="col-md-6 col-sm-6 p-none">
                         <ul class="custom-list-style-1 p-none">
                             <li>
-                                <span class="text-color-dark">Birthday:</span>
-                                <span class="custom-text-color-2">December 10</span>
-                            </li>
-                            <li>
-                                <span class="text-color-dark">Marital:</span>
-                                <span class="custom-text-color-2">Married</span>
-                            </li>
-                            <li>
                                 <span class="text-color-dark">Languages:</span>
                                 <span class="custom-text-color-2">ENG, CHI</span>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6 col-sm-6 p-none">
-                        <ul class="custom-list-style-1 p-none">
-                            <li>
-                                <span class="text-color-dark">Sport:</span>
-                                <span class="custom-text-color-2">Soccer</span>
                             </li>
                             <li>
                                 <span class="text-color-dark">Food:</span>
                                 <span class="custom-text-color-2">Thai</span>
                             </li>
                             <li>
-                                <span class="text-color-dark">Movie:</span>
+                                <span class="text-color-dark">Destination:</span>
+                                <span class="custom-text-color-2">Santorini</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-6 p-none">
+                        <ul class="custom-list-style-1 p-none">
+                            <li>
+                                <span class="text-color-dark">Book:</span>
+                                <span class="custom-text-color-2">Water Margin</span>
+                            </li>
+                            <li>
+                                <span class="text-color-dark">Sport:</span>
+                                <span class="custom-text-color-2">Soccer</span>
+                            </li>
+                            <li>
+                                <span class="text-color-dark">Film:</span>
                                 <span class="custom-text-color-2">John Wick</span>
                             </li>
                         </ul>

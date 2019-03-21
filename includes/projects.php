@@ -7,14 +7,15 @@
             <div class="col-md-6 pull-left">
                 <h2 class="mt-lg">Dotnet<strong> Okta Portal</strong></h2>
                 <p class="lead">
-                    Login portal leveraging Okta APIs for Identity and Access Management to authenticate and authorize
+                    Login portal leveraging Okta's IAM (Identity and Access Management) APIs to authenticate and authorize
                     end users to retrieve and display their applications on a landing page.
                 </p>
                 <p class="mt-lg">
-                    The application was birthed on a team of four developers all burning with the desire to give life
-                    to those remaining few ingredients left in one's nearly-empty fridge. This application was enriching
-                    because it exposed many unfamiliar aspects of the LAMP stack while concurrently delivering the
-                    minimum viable product by the deadline.
+                    This Dotnet Okta Portal is the culmination of what I learned and an example of the applications I
+                    was developing at my last place of employment. I learned ASP.NET and C# to build this application
+                    and incorporate Okta's C# SDK into the development portfolio. I also just really enjoyed the
+                    framework, and tend to learn the most when researching new technologies and how to apply them best.
+                    Plus, it's always super exciting to get things working in a new language.
                 </p>
                 <div class="lead text-lg">
                     Technologies:
@@ -51,19 +52,18 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-linux-plain colored"></i>
-                    <i class="devicon-apache-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
                     <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-mysql-plain colored"></i>
+                    <i class="devicon-apache-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-google-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="https://www.fridge2plate.com" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -88,17 +88,15 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
+                    <i class="devicon-mysql-plain colored"></i>
+                    <i class="devicon-nginx-plain colored"></i>
+                    <i class="devicon-wordpress-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-linux-plain colored"></i>
-                    <i class="devicon-nginx-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
-                    <i class="devicon-wordpress-plain colored"></i>
-
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://www.jghausecustomhomes.com/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -154,14 +152,14 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
                     <i class="devicon-github-plain colored"></i>
                     <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/street_matcher_2/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
@@ -186,17 +184,17 @@
                 </p>
                 <div class="lead text-lg">
                     Technologies:
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
+                    <i class="devicon-php-plain colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
                     <i class="devicon-jquery-plain colored"></i>
                     <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-linux-plain colored"></i>
+                    <i class="devicon-amazonwebservices-plain colored"></i>
                     <i class="devicon-apache-plain colored"></i>
                     <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-php-plain colored"></i>
-                    <i class="devicon-amazonwebservices-plain colored"></i>
+                    <i class="devicon-github-plain colored"></i>
+                    <i class="devicon-git-plain colored"></i>
+                    <i class="devicon-css3-plain colored"></i>
+                    <i class="devicon-html5-plain colored"></i>
                 </div>
                 <div class="mt-lg">
                     <a href="http://fishercode.com/apps/student_grade_table/" class="btn btn-tertiary text-capitalize text-color-primary custom-btn-style-1 custom-margin-2 pull-left mr-md text-sm" target="_blank"><i class="fa fa-external-link"></i>&nbsp; Live Site</a>
