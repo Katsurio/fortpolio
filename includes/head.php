@@ -13,12 +13,12 @@
 <!--Social media sharing-->
 <meta property="og:url"            content="http://www.codephish.net">
 <meta property="og:type"           content="profile">
-<meta property="og:title"          content="John E. Fisher | Software Developer">
-<meta property="og:description"    content="Specializing in both front-end and back-end technologies.">
+<meta property="og:title"          content="John (Jef) Fisher | Web Developer">
+<meta property="og:description"    content="John Fisher's Web Development Portfolio Website">
 <meta property="og:image"          content="//codephish.net/img/portfolio_snapshot.png">
 <meta name="twitter:card"          content="summary_large_image">
 
-<title>John Fisher | Software Developer</title>
+<title>John Fisher | Web Developer</title>
 
 <!-- Favicon -->
 <!--<link rel="shortcut icon" href="img/katsurio_favicon.ico" type="image/x-icon">-->

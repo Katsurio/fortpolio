@@ -2,8 +2,8 @@ Fort Polio aka Portfolio
 ===============
 
 ### Summary
->My software development portfolio that highlights applications I've developed and the technology I use and services offered. 
-There is a contact form and links to my resume, GitHub, AngelList, and linkedin.
+>My web development portfolio that highlights applications I've developed and the technology I've used and services 
+offered. There is a contact form and links to my resume, GitHub, AngelList, and linkedin.
 
 **[Live Link](http://www.CodePhish.net)**
 
