@@ -53,11 +53,10 @@
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
                                 <h4 class="text-color-dark font-weight-semibold">PHP Developer</h4>
                                 <p class="custom-text-color-2">
-                                    Full stack development utilizing PHP, Javascript, jQuery, Bootstrap, CSS, and HTML
-                                    to securely build portals leveraging Okta's Identity and Access Management APIs.
-                                    Portals were developed with secure login, password/profile updates, MFA and MFA
-                                    factor resets, landing pages for company apps, and any other custom functionality
-                                    requested.
+                                    Full stack development primarily utilizing a LAMP stack, JavaScript, jQuery,
+                                    Bootstrap, CSS, and HTML to securely build portals leveraging Okta's Identity and
+                                    Access Management APIs. Custom functionality for enterprise applications was
+                                    developed to specification from approved design blueprints and flow charts.
                                 </p>
                             </div>
                         </article>
@@ -80,11 +79,11 @@
                             <div class="experience-description col-md-9 col-sm-7 match-height background-color-light">
                                 <h4 class="text-color-dark font-weight-semibold">Freelance Web Developer</h4>
                                 <p class="custom-text-color-2">
-                                    Developed the "Our Communities" page for a custom homes website. The page designs
-                                    were developed from PSDs provided by the client, and improvements were made to the
-                                    app's overall responsiveness at all breakpoints. Implemented a Braintree payment
-                                    system and Google OAuth login for an application that retrieved recipes according
-                                    to a user's available ingredients on hand.
+                                    Collaborated with another developer to build out a custom homes website for a
+                                    client's constructions company. Page designs were developed from PSDs provided by
+                                    the client. Made improvements to the applications's responsiveness at all
+                                    breakpoints. Developed the "Our Communities" page for the Wordpress hosted
+                                    application.
                                 </p>
                             </div>
                         </article>
