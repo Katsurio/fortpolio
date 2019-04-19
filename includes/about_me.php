@@ -101,8 +101,8 @@
                     <div class="col-md-6 col-sm-6 p-none">
                         <ul class="custom-list-style-1 p-none">
                             <li>
-                                <span class="text-color-dark">Book:</span>
-                                <span class="custom-text-color-2">Water Margin</span>
+                                <span class="text-color-dark">Game:</span>
+                                <span class="custom-text-color-2">K.O.T.O.R.</span>
                             </li>
                             <li>
                                 <span class="text-color-dark">Sport:</span>
